@@ -17,15 +17,23 @@ class Transformer:
     def _fieldnames(self) -> list:
         pass
 
+    # helper functions
+    def _rename(self, row, transforms=dict()):
+        trow = dict()
+        for old_col in transforms.keys():
+            trow[transforms[old_col]] = row[old_col]
+        return trow
+
     def transform(self):
         transformed_data = []
         self._perload_transformer()
-        with open(self.input) as file:
+        with open(self.input, 'r', encoding='UTF-8') as file:
             reader = csv.DictReader(file, delimiter=',', quotechar='"')
             for row in reader:
                 transformed_data.append(self._transform(row))
-        with open(self.output) as file:
-            writer = csv.DictWriter(file, fieldnames=self._fieldnames())
+        with open(self.output, 'w+', newline='', encoding='UTF-8') as file:
+            writer = csv.DictWriter(file, delimiter=',', 
+                quotechar='"', fieldnames=self._fieldnames())
             writer.writeheader()
             for row in transformed_data:
                 writer.writerow(row)

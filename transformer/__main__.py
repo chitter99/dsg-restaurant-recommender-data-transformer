@@ -13,3 +13,10 @@ def run_default_transformer(users_path, restaurants_path, ratings_path):
         user_ids=users_transformer.ids, restaurant_ids=restaurants_transformer.ids)
     
     ratings_transformer.transform()
+
+if __name__ == '__main__':
+    run_default_transformer(
+        users_path='.\\input\\user_features.csv',
+        restaurants_path='.\\input\\restaurant_features.csv',
+        ratings_path='.\\input\\ratings.csv'
+    )

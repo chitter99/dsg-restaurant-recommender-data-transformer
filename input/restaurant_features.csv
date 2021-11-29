@@ -1,0 +1,429 @@
+team_name,restaurant_id,osm_node_id,breite,laenge,name,strasse,hausnummer,stadt,plz,website,raucherbereich_innen,preis_kategorie,takeaway,sitzplätze_innen,sitzplätze_aussen,restaurant_typ_1,restaurant_typ_2,cuisine_type_1,cuisine_type_2,cuisine_region_1,cuisine_region_2,vegetarisch,vegan,frühstück,brunch,mittagessen,abendessen,rabatt_pct,rollstuhlgaengig
+toess,105459350,105459350,"47,3703727","8,5399233",Zeughauskeller,Bahnhofstrasse,28A,Zürich,8001,zeughauskeller.ch,Nein,1,Ja,Ja,Nein,Restaurant,,Gutbürgerlich,,Schweizerisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Nein
+toess,246249861,246249861,"47,5000502","8,7312632",Tibits,Oberer Graben,48,Winterthur,8400,http://www.tibits.ch/de/catering/angebot.html,Ja,3,Ja,Ja,Ja,Restaurant,,Marktküche,,Asiatisch,,Ja,Ja,Ja,Ja,Ja,Ja,,Nein
+toess,256866280,256866280,"47,4996979","8,7241129",National,Stadthausstrasse,24,Winterthur,8400,http://national-winterthur.ch/,Ja,2,Nein,Ja,Ja,Restaurant,,Marktküche,,Europäisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Nein
+toess,270908998,270908998,"47,4989606","8,7313826",Schäfli,Oberer Graben,18,Winterthur,8400,http://www.restaurant-schaefli-winterthur.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+FR,270938320,270938320,,,Santa Lucia,Waaggasse,5,Zürich,8001,https://www.bindella.ch/die-gastronomie/santa-lucia,Nein,2,Ja,Ja,Ja,Restaurant,Cafe,Pizza,Fusion,Europäisch,Italienisch,Ja,Ja,Ja,Ja,Ja,Ja,,
+Kamikaze,282655574,282655574,"47,4999063","8,7320208",Istanbul Döner,Obertor 21,21,Winterthur,8400,Istanbul Döner Kebap - Restaurant in Winterthur (business.site),Nein,1,Ja,Nein,Ja,Fastfood,,Grill,Pizza,Europäisch,Italienisch,Ja,,Nein,Nein,Ja,Ja,Nein,Ja
+FR,312580271,312580271,,,Lilys,Langstrasse,197,Zürich,8001,https://lilys.ch/,Nein,2,Ja,Ja,Nein,Restaurant,,Fusion,,Asiatisch,,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,313367191,313367191,,,Le Cedre,Badenerstrasse ,78,Zürich,8001,https://www.libanesisch.ch/lokale/le-cedre,Nein,3,Nein,Ja,Ja,Restaurant,,Fusion,,Asiatisch,Afghanisch,Ja,Nein,Nein,Ja,Ja,Ja,,
+toess,353186982,353186982,"47,4990848","8,7244693",McDonald's,Untertor ,37,Winterthur,8400,https://www.mcdonalds.com,Nein,1,Ja,Ja,Ja,Fastfood,,Burger,,Amerikanisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Ja
+toess,359687037,359687037,"47,5009387","8,7252033",Santa Lucia,bahnhofplatz,12,Winterthur,8400,http://www.bindella.ch/de/santa-lucia-winterthur.html,Nein,2,Ja,Ja,Nein,Restaurant,,Pizza,,Europäisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Nein
+toess,359688178,359688178,"47,4984254","8,7261656",Typisch Thai,Neumarkt ,3,Winterthur,8400,http://www.typischthai.ch/,Nein,3,Ja,Ja,Ja,Restaurant,,Sushi,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+toess,359691092,359691092,"47,5001230","8,7291699",La Pergola,Stadthausstr,71,Winterthur,8400,http://www.la-pergola-winti.ch/,Nein,2,Ja,Ja,Nein,Restaurant,,Pizza,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+FR,359691979,359691979, 47.4980673,8.7277879,Pizzeria Don Camillo,Steinberggasse,51,Winterthur,8400,https://pizzeriadoncamillo.ch/,Nein,3,Ja,Ja,Ja,Restaurant,,Pizza,,Italienisch,,Ja,Nein,Nein,Ja,Ja,Ja,Nein,Ja
+FR,359692073,359692073,47.4987211,8.7247291,Orsini,Technikumstrasse,96,Winterthur,8400,,Nein,2,Ja,Ja,Ja,Restaurant,,Gutbürgerlich,Marktküche,Schweizerisch,Europäisch,Ja,Nein,Ja,Nein,Ja,Ja,,Nein
+FR,382989332,382989332,,,Barnabas,Büelrainstrasse,1,Winterthur,8400,https://www.barnabaswinti.ch/,Nein,2,Ja,Ja,Ja,Restaurant,Weinbar,Marktküche,Gutbürgerlich,Schweizerisch,Europäisch,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+toess,451727077,451727077,"47,3844872","8,5278294",Tibetasia,Quellenstrasse,6,Zürich,8005,tibetasia.ch,Nein,1,Ja,Ja,Ja,Restaurant,,Noodle,,Asiatisch,Chinesisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,471628000,471628000,"47,4994389","8,7277569",Molino,Marktgasse,45,Winterthur,8404,http://molino.ch,Nein,3,Ja,Ja,Ja,Restaurant,,Pizza,,Italienisch,,Ja,Nein,Ja,Ja,Ja,Ja,Nein,Ja
+toess,480274132,480274132,"47,3935843","8,5296761",The Artisan,Nordbrücke ,4,Zürich,8037,theartisan.ch,Nein,2,Ja,Ja,Ja,Restaurant,,Burger,,Europäisch,Amerikanisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,560157037,560157037,"47,5017718","8,7209446",Tibet Bistro,Neuwiesenstrasse,14,Winterthur,8400,tibetbistro.ch,Ja,2,Ja,Ja,Ja,Restaurant,,Suppen,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+FR,593846241,593846241,47.4994087,8.71984,El Burrito Feliz,Schützenstrasse,8,Winterthur,8400,https://www.elburritofeliz.ch/,Nein,3,Ja,Ja,Ja,Restaurant,,Tapas,,Mexikanisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+home,656327806,656327806,,,Holy Cow,Zaehringerstrasse,28,Zürich,8001,https://www.holycow.ch/,Nein,2,Ja,Ja,Ja,Fastfood,,Burger,,Amerikanisch,,Ja,Nein,Nein,Nein,Ja,Ja,,Ja
+FR,656508776,656508776,47.3773339,8.5277649,The Bite,Brauerstrasse,15,Zürich,8004,https://www.thebite.ch/,Nein,2,Ja,Ja,Ja,Restaurant,FastFood,Burger,,Amerikanisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+toess,737145375,737145375,"47,3787172","8,5233543",Marktküche,Feldstr. ,98,Zürich,8004,http://www.marktkueche.ch/,Nein,4,Nein,Ja,Ja,Restaurant,,Noodle,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+FR,1143290252,1143290252,47.3677218,8.5461444,Vapiano,Rämistrasse,8,Zürich,8001,https://ch.vapiano.com/en/home/,Nein,3,Ja,Ja,Ja,Restaurant,,Pizza,,Italienisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+FR,1354802977,1354802977,47.3752069,8.5437776,Suan Long,Niederdorfstrasse,47,Zürich,8001,https://suan-long.ch/suanlong/,Nein,2,Ja,Ja,Nein,Restaurant,,Noodle,,Asiatisch,Chinesisch,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+toess,1383580139,1383580139,"47,3837599","8,5284695",CoChinChin,Gasometerstrasse,7,Zürich,8005,cochinchin.ch,Nein,3,Ja,Ja,Ja,Restaurant,,Noodle,,Asiatisch,Vietnamesisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+FR,1864890970,1864890970,,,Jao Praya,Tramstrasse,19,Zürich,8050,https://m.facebook.com/jaoprayaoerlikon/?locale2=de_DE,Nein,2,Ja,Ja,Nein,Restaurant,,Noodle,,Asiatisch,Thailändisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,2298795774,2298795774,,,Yard Bird,Weststrasse,146,Zürich,8003,https://www.yardbird.ch/,Nein,4,Ja,Ja,Ja,Restaurant,Restaurant,Burger,Marktküche,Europäisch,Schweizerisch,Ja,Ja,Ja,Ja,Ja,Ja,Nein,
+Kamikaze,2341965691,2341965691," 47,3749062"," 8,5395320",Black Tap,Werdmühlestrasse,4,Zürich,8001,Zurich - Black Tap Craft Burgers & Beer,nein,3,Ja,Ja,Ja,Restaurant,,Burger,Sandwich,Amerikanisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+FR,2399627234,2399627234,"47,4528346","8,5808772",Rollis Steakhous,Gerbegasse,9,Kloten,8302,http://www.rollis-steakhous.ch,Nein,4,Nein,Ja,Nein,Restaurant,,Grill,,Amerikanisch,,Nein,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+toess,2540938577,2540938577,"47,4901982","8,7093650",Asia King,Agnesstrasse,65,Winterthur,8406,asiaking.ch,Nein,1,Ja,Ja,Ja,Restaurant,,Noodle,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,,Nein
+FR,2563925427,2563925427,47.40722,8.4121642,Bäckerei Victoria,Niederholzstrasse,6,Fahrweid,8951,http://www.victoria-fahrweid.ch/,Nein,1,Ja,Ja,Ja,Cafe,Restaurant,Sandwich,Grill,Schweizerisch,Europäisch,Ja,Nein,Ja,Ja,Ja,Ja,,
+toess,3556713581,3556713581,"47,4143690","8,5567666",Kaisin,talacker,34,Zürich,8001,kaisin.ch,Nein,2,Ja,Ja,Nein,Bar,,Marktküche,,Europäisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Nein
+toess,4095400149,4095400149,"47,4982517","8,7210319",Boilerroom,Züricherstr. ,1,Winterthur,8400,http://www.boilerroom.ch/,Nein,2,Ja,Ja,Nein,Bar,,Burger,,Amerikanisch,,Ja,Ja,Nein,Nein,Nein,Ja,Nein,Ja
+FR,4159355983,4159355983,,,Dapur,Schaffhauserstrasse,373,Zürich,8050,https://www.dapur-indonesia.ch/,Nein,3,Ja,Ja,Ja,Restaurant,Restaurant,Noodle,Marktküche,Asiatisch,Asiatisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+home,4424600899,4424600899,,,Burger King,Bahnhofpl.,15,Zürich,8001,https://www.candrian-burger-king.ch/,Nein,2,Ja,Ja,Nein,Fastfood,,Burger,,Amerikanisch,,Nein,Nein,Nein,Nein,Ja,Ja,,Ja
+FR,4424654373,4424654373,,,Rice Up,Museumstrasse,1,Zürich,8001,https://www.riceup-restaurant.com/,Nein,1,Ja,Ja,Ja,Fastfood,Restaurant,Noodle,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,,
+FR,4447297097,4447297097,47.372168,8.5187944,Ooki,Zentralstrasse,53,Zürich,8003,http://ooki.tokyo/,Nein,2,Ja,Ja,Ja,Restaurant,,Noodle,,Japanisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,4880906379,4880906379,"47,3649526","8,5478868",Tibits Seefeld,Seefeldstrasse ,2,Zürich,8008,http://www.tibits.ch/de/catering/angebot.html,Nein,3,Ja,Ja,Ja,Restaurant,,Marktküche,,Europäisch,Asiatisch,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Ja
+FR,4941865456,4941865456,47.3756521,8.5398019,Hiltl Dachterrasse,Bahnhofstrasse,88,Zürich,8001,dachterrasse@hiltl.ch,Nein,2,Ja,Ja,Ja,Restaurant,Bar,Marktküche,Gutbürgerlich,Schweizerisch,Europäisch,Ja,Ja,Ja,Ja,Ja,Ja,,Ja
+FR,5325690373,5325690373, 47.3761214,8.5155216,Tenz,Badenerstrasse,256,Zürich,8004,https://www.tenz.ch/,Nein,2,Ja,Ja,Nein,Restaurant,,Fusion,,Tibetisch,Asiatisch,Ja,Nein,Nein,Nein,Ja,Ja,,Nein
+Kamikaze,5653783775,5653783775," 47,3798658","8,5061904",Ayverdis,Badenerstrasse,415,Zürich,8003,ayverdis.ch,nein,3,ja,ja,nein,Fastfood,Restaurant,Sandwich,Fusion,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Kamikaze,6223030513,6223030513,"47,4979133","8,7292552",Hassan Sandwich,Technikumstrass,32,Winterthur,8400,,Nein,1,Ja,Nein,Ja,Fastfood,,Sandwich,,Europäisch,,Ja,,Nein,Nein,Ja,Ja,Nein,Ja
+FR,7204648136,7204648136,,,NA081,Konradstrasse,71,Zürich,8005,https://na081.ch/zurich/,Nein,2,Nein,Ja,Nein,Restaurant,,Pizza,,Italienisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,
+Kamikaze,8199027204,8199027204,"47,5181959","8,7199501",Hans im Glück,Schaffhauserstrasse,152,Winterthur,8400,https://hansimglueck-burgergrill.de/standort/winterthur-rosenberg/ ,Nein,3,Ja,Ja,Ja,Fastfood,,Burger,,Amerikanisch,,Ja,,Nein,Nein,Ja,Ja,Nein,Ja
+FR,1,,,,A Modo Mio / La Pinsa Romana,General-Guisan-Strasse ,1,Winterthur,8400,,Nein,1,Ja,Nein,Nein,Fastfood,,Pizza,,Italienisch,,Ja,Nein,Nein,Ja,Ja,Ja,,Nein
+FR,6,,47.368737,8.537878,Aura,Bleicherweg 5,,Zürich,8001,https://www.aura-zurich.ch,,,,,,,,,,,,,,,,,,,
+FR,7,,,,Back und Brau,,,Zürich,,,,,,,,,,,,,,,,,,,,,
+FR,10,,,,Bahnhof,Stationsstrasse ,101,Thalheim,8478,https://www.bahnhofthalheim.ch/,Nein,1,Ja,Ja,Ja,Restaurant,Bar,Gutbürgerlich,Marktküche,Schweizerisch,Europäisch,Nein,Nein,Nein,Nein,Ja,Ja,,
+FR,11,,,,Bahnhöfli,Seuzacherstrasse,108,Dinhard,8474,https://www.restaurant-bahnhoefli-welsikon.ch/,Nein,2,Ja,Ja,Ja,Restaurant,Fastfood,Pizza,Gutbürgerlich,Italienisch,Schweizerisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,12,,,,Bahnhöfli,Römertorstrasse,4,Oberwinterthur,8404,https://www.bahnhoefli-oberi.ch,Nein,2,Ja,Ja,Ja,Restaurant,Cafe,Gutbürgerlich,Burger,Schweizerisch,Amerikanisch,Ja,Nein,Nein,Nein,Ja,Nein,,
+FR,13,,,,Bahnhöfli Wülflingen,Wydenweg,15,Winterthur,8400,https://www.bahnhöfli-wülflingen.ch/,Nein,2,Nein,Ja,Ja,Restaurant,,Grill,,Schweizerisch,,Ja,Nein,Nein,Ja,Ja,Ja,,
+FR,14,,,,Barbarossa,Zeughausstrasse,4,Frauenfeld,8500,http://www.barbarossa-frauenfeld.ch/,Nein,2,Ja,Ja,Ja,Restaurant,Weinbar,Pizza,Noodle,Italienisch,Mediterran,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,16,,,,Bindella,In Gassen ,6,Zürich,8001,https://www.bindella.ch/gastronomie/bindella-zuerich,Nein,3,Nein,Ja,Ja,Restaurant,Restaurant,Pizza,Noodle,Italienisch,Mediterran,Ja,Ja,Nein,Nein,Ja,Ja,,
+FR,18,,,,Brüelmatt,Dorfstrasse ,10,Birmenstorf,8903,https://brueelmatt.ch/,Nein,1,Ja,Ja,Ja,Restaurant,Restaurant,Gutbürgerlich,Marktküche,Schweizerisch,Europäisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,19,,,,Bunter Hund,Bachtelstrasse,72,Winterthur,8400,DAUERHAFT GESCHLOSSEN?,,,,,,,,,,,,,,,,,,,
+FR,20,,,,Burger King,Untertor,33,Winterthur,8400,https://www.burger-king.ch/,Nein,2,Ja,Ja,Ja,Fastfood,Restaurant,Burger,Burger,Amerikanisch,Amerikanisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,22,,,,Café Roman,Frauenfeldstrasse,76,Oberwinterthur,8404,https://cafe-roman.ch/,Nein,2,Ja,Ja,Ja,Cafe,Restaurant,Sandwich,Gutbürgerlich,Europäisch,Schweizerisch,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,23,,,,Cantinetta Bindella,Marktgasse,44,Winterthur,8400,https://www.bindella.ch/die-gastronomie/cantinetta-bindella,Nein,1,Nein,Ja,Ja,Restaurant,Cafe,Gutbürgerlich,Grill,Schweizerisch,Europäisch,Ja,Nein,Ja,Nein,Ja,Ja,,
+FR,25,,,,Celia,Langstrasse ,35,Zürich,8004,,Nein,2,Ja,Ja,Ja,Restaurant,Restaurant,Pizza,Noodle,Italienisch,Europäisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,27,,,,China Bowl,Obergasse,15,Winterthur,8400,https://www.chinabowl-restaurant.ch/,Nein,2,Ja,Ja,Ja,Pub,,Noodle,Sushi,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+FR,29,,,,Collina,Schönfeldstrasse,3,Feusisberg,8835,https://www.panoramaresort.ch/de/gastronomie/restaurants-bar,Nein,3,Nein,Ja,Ja,Restaurant,Restaurant,Gutbürgerlich,Marktküche,Schweizerisch,Europäisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,31,,,,Creperie,Steinbergstrasse,59,Winterthur,8400,https://grepery.ch/,Nein,2,Ja,Ja,Ja,Restaurant,Cafe,Marktküche,Fusion,Europäisch,Europäisch,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,34,,,,Dimensione,Neustadtgasse,25,Winterthur,8400,https://www.dimensione.ch/,Nein,1,Ja,Ja,Ja,Restaurant,Restaurant,Gutbürgerlich,Suppen,Schweizerisch,Europäisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,36,,,,Fredi,Stadthausstrasse,119,Winterthur,8400,https://www.casinotheater.ch/restaurant-fredi/,Nein,2,Ja,Ja,Ja,Restaurant,Bar,Suppen,Gutbürgerlich,Europäisch,Schweizerisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,38,,,,Freihof,Surrliweg,1,Dinhard,8474,https://www.freihof-dinhard.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Noodle,Fusion,Italienisch,Mediterran,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,41,,,,Gasthof zum goldenen Kreuz,Zürcherstrasse ,134,Frauenfeld,8500,https://www.goldeneskreuz.ch/,Nein,,Nein,Ja,Ja,Restaurant,Restaurant,Gutbürgerlich,,Schweizerisch,Europäisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,42,,,,Gasthof zum Kreuz,Uesslingerstrasse,1,Warth,8532,https://kreuz-warth.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Gutbürgerlich,Grill,Schweizerisch,Europäisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,43,,,,Glatt Grill,Neue Winterthurerstrasse,99,Wallisellen,8304,https://www.glattgrill.ch/,Nein,2,Ja,Ja,Ja,Restaurant,Cafe,Grill,Burger,Schweizerisch,Orientalisch,Nein,Nein,Nein,Nein,Ja,Ja,,
+FR,44,,,,Haku,Sankt Gallenstrasse,39,Winterthur,8400,https://www.haku-restaurant.ch/home,Nein,2,Ja,Ja,Ja,Restaurant,,Sushi,Noodle,Japanisch,Asiatisch,Ja,Ja,Nein,Nein,Ja,Ja,,
+FR,45,,,,Han - Mongolian BBQ,Industriestrasse,10,Uster ZH,8610,https://www.han.ch/content/196/96/angebot/uster,Nein,2,Ja,Ja,Ja,Restaurant,,Noodle,Grill,Asiatisch,,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,48,,,,Hato,Brandschenkerstrasse,20,Zürich,8001,https://hato-restaurants.com/,Nein,3,Ja,Ja,Ja,Restaurant,,Sushi,Grill,Japanisch,Asiatisch,Ja,Ja,Nein,Nein,Ja,Ja,,
+FR,52,,,,Hirschen,Lindenplatz,2,Winterthur,8408,https://www.taverne-zum-hirschen.com/,Nein,2,Nein,Ja,Ja,Restaurant,,Marktküche,,Schweizerisch,,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,53,,,,House of Mezze,Berchtoldstrasse,10,Uster ZH,8610,https://www.house-of-mezze.com/,Nein,2,Ja,Ja,Ja,Restaurant,,Grill,Marktküche,Orientalisch,,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,54,,,,House of Momos,Soodstrasse,52,Adliswil,8134,https://houseofmomos.ch/,Nein,1,Ja,Ja,Nein,Restaurant,FastFood,Fusion,,Tibetisch,Asiatisch,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+FR,56,,,,Il Casale,Leutholdstrasse ,5,Wetzikon,8620,https://www.il-casale.ch/,Nein,3,Ja,Ja,Ja,Restaurant,,Pizza,Noodle,Italienisch,Mediterran,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,57,,,,Incontro,Langgasse,40,Winterthur,8400,http://www.incontropizza.ch/,Nein,1,Ja,Ja,Ja,Restaurant,,Pizza,,Italienisch,Mediterran,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,61,,,,Kindli,Strehlgasse,24,Zürich,8001,https://www.kindli.ch/,Nein,2,Nein,Ja,Ja,Restaurant,,Marktküche,,Europäisch,,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,64,,,,La Qualita,Engstringerstrasse,5,Schlieren,8952,https://www.laqualita.ch/,Nein,1,Ja,Ja,Ja,Restaurant,,Pizza,,Italienisch,,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,66,,,,La Taverne,Stadthausstrasse,10B,Winterthur,8400,,Nein,2,Nein,Ja,Ja,Restaurant,,Pizza,Fusion,Europäisch,,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,73,,,,Luigia,Talstrasse,61,Zürich,8001,https://luigia.ch/de/italienische-restaurants/,Nein,2,Nein,Ja,Ja,Restaurant,,Pizza,Fusion,Italienisch,Europäisch,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,74,,,,Luna,Hauptstrasse,20,Schwanden,8762,https://www.pizzerialuna.ch/,Nein,1,Ja,Nein,Nein,Fastfood,,Pizza,,Europäisch,,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,75,,,,Mados,Zürichstrasse,7,Uster ZH,8610,https://mados-restaurant.business.site/,Nein,2,Ja,Ja,Nein,Restaurant,Fastfood,,,Orientalisch,,Ja,Ja,Nein,Nein,Ja,Ja,,
+FR,81,,,,Midori Ramen,Mattengasse,13,Zürich,8005,https://www.midori-ramen.ch/,Nein,2,Nein,Ja,Nein,Restaurant,,Noodle,,Asiatisch,Japanisch,Ja,Ja,Nein,Nein,Ja,Ja,,
+FR,84,,,,Mythos,Stauffacherstrasse,85,Zürich,8004,https://mymythos.ch/,Nein,1,Nein,Ja,Nein,Restaurant,Bar,Fusion,,Mediterran,,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,91,,,,No18,Wülflingerstrasse,18,Winterthur,8400,18-winterthur.ch,,,,,,,,,,,,,,,,,,,
+FR,92,,,,Ochsen,Rudolfingerstrasse,2,Trüllikon,8466,https://www.ochsen-truellikon.ch/,Nein,2,Nein,Ja,Ja,Restaurant,Cafe,Marktküche,,Schweizerisch,,Ja,Nein,Nein,Ja,Ja,Ja,,
+FR,93,,,,OH MY GREEK!,Kalkbreitestrasse,1,Zürich,,,,,,,,,,,,,,,,,,,,,
+FR,94,,,,Olympic Lounge,Ueberlandstrasse,350,Zürich,,,,,,,,,,,,,,,,,,,,,
+FR,101,,,,Portier,Lagerplatz,3,Winterthur,8400,https://portier.lagerplatz.ch/,Nein,2,Nein,Ja,Ja,Restaurant,Cafe,Gutbürgerlich,Sandwich,Europäisch,Schweizerisch,Ja,Ja,Ja,Ja,Ja,Ja,,
+FR,102,,,,Pot au vert,Limmatquai,142,Zürich,8001,https://limmathof.com/restaurant/,Nein,2,Nein,Ja,Nein,Restaurant,,Gutbürgerlich,,Schweizerisch,,Ja,Ja,Nein,Nein,Ja,Ja,,
+FR,103,,,,Pulcinella,Metzggasse,11,Winterthur,8400,https://pulcinella-winterthur.ch/,Nein,2,Ja,Ja,Nein,Restaurant,Fastfood,Gutbürgerlich,Noodle,Schweizerisch,,Ja,Nein,Nein,Ja,Ja,Ja,,
+FR,106,,,,Riedmühle,Riedmühlestrasse,86,Dinhard,8474,https://riedmuehli.ch/,Nein,2,Nein,Ja,Ja,Restaurant,Cafe,Marktküche,,Schweizerisch,,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,112,,,,Sagi Bertschikon,Wiesendangerstrasse,15,Bertschikon,8543,https://www.sagi-bertschikon.ch/,Nein,2,Nein,Ja,Ja,Restaurant,Cafe,Gutbürgerlich,Fusion,Schweizerisch,,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,115,,,,Santa Pizza,Schanzweg,11,Pfäffikon ZH,8330,https://santapizza.ch/,Nein,2,Ja,Ja,Nein,Restaurant,Fastfood,Pizza,Burger,Europäisch,Italienisch,Ja,Ja,Ja,Ja,Ja,Ja,,
+FR,116,,,,Sayori,Untere Bahnhofstrasse,5,Rapperswil,8640,http://www.asian-food.ch/sayori/rapperswil/index.php,Nein,2,Ja,Ja,Ja,Restaurant,Fastfood,Noodle,,Asiatisch,Thailändisch,Ja,Nein,Nein,Ja,Ja,Ja,,
+FR,118,,,,Schneiders Quer,Speerstrasse,15,Pfäffikon ZH,8330,https://schneidersquer.ch/,Nein,1,Ja,Ja,Nein,Restaurant,Fastfood,Fusion,Burger,Italienisch,,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,119,,,,Silo 6,Seestrasse,35,Kreuzlingen,8598,https://silo5.ch/,Nein,1,Nein,Ja,Ja,Restaurant,Cafe,Fusion,,Schweizerisch,,Ja,Ja,Ja,Ja,Ja,Ja,,
+FR,121,,,,Sinfonia,Bahnhofstrasse,29,Erlenbach ZH,8703,https://www.restaurantsinfonia.ch/,Nein,2,Nein,Ja,Ja,Restaurant,,Gutbürgerlich,,Schweizerisch,,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,122,,,,Sonne,Ohringerstrasse,2,Seuzach,8472,https://sonne-seuzach.ch/,Nein,2,Nein,Ja,Nein,Restaurant,,Gutbürgerlich,,Schweizerisch,,Ja,Ja,Ja,Ja,Ja,Ja,,Ja
+FR,124,,,,Stadtrain,Dorfstrasse,71,Winterthur,8404,http://www.stadtrain-winterthur.ch/,Nein,2,Ja,Ja,Nein,Restaurant,,Gutbürgerlich,,Schweizerisch,,Ja,Nein,Nein,Ja,Ja,Ja,,Ja
+FR,127,,,,Story Pub,In der Fadmatt,1,Urdorf,8902,,Nein,1,Ja,Ja,Nein,Restaurant,,Sandwich,,Schweizerisch,,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,130,,,,Suan Long,Bahnhofplatz,5,Winterthur,8400,https://suanlong1.ch/,Nein,2,Ja,Ja,Nein,Restaurant,,Noodle,,Asiatisch,Chinesisch,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+FR,133,,,,Sumak Sumak,Obertor,29,Winterthur,8400,https://www.instagram.com/hasanssandwich/?hl=de,,,,,,,,,,,,,,,,,,,
+FR,145,,,,Tössrain,Wieshofstrasse,109,Winterthur,8408,http://www.toessrain.ch/,Nein,2,Ja,Ja,Ja,Restaurant,Cafe,Gutbürgerlich,,Europäisch,Schweizerisch,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,147,,,,Trocadero,Sarganserstrasse ,4,Bad Ragaz,7310,https://www.trocadero-ragaz.ch/,Nein,2,Ja,Ja,Ja,Restaurant,Cafe,Pizza,Pizza,Europäisch,Italienisch,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,153,,,,Vensi AH,,,Aarau,,,,,,,,,,,,,,,,,,,,,
+home,178,,,,Pizzeria Picante,Laupenstrasse,51,Wald ,8636,http://www.picantepizza.ch/,Nein,1,Ja,Ja,Nein,Restaurant,,Pizza,,Italienisch,,Ja,Nein,Nein,Nein,Ja,Ja,,Nein
+FR,14299071,14299071,"47,4978500","8,7285844",Zermatt Kebab Haus,Technikumstrasse,42,Winterthur,8400,https://www.facebook.com/zermattkebaphaus,Nein,,Ja,Ja,Ja,Fastfood,Restaurant,Burger,,Europäisch,,Ja,Nein,Nein,Ja,Ja,Ja,,
+FR,31316585,31316585,,,Chalet India,Oberdorfstrasse,51,Horgen,8810,https://www.chaletindia.ch/de/,Nein,2,Ja,Ja,Ja,Restaurant,Restaurant,Noodle,Grill,Indisch,Asiatisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+toess,39244966,39244966,,,Eisenhof,Gasometerstrasse,20,Zürich,8005,restauranteisenhof.ch,Nein,2,Nein,Ja,Ja,Restaurant,,Gutbürgerlich,,Schweizerisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+FR,39961134,39961134, 47.4984732,8.7363658,Simply Thai,St. Gallerstrasse,27,Winterthur,8400,https://www.simply-thai.ch/,Nein,2,Ja,Ja,Nein,Restaurant,,Noodle,Fusion,Thailändisch,,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+Kamikaze,43939375,43939375,"47,4300355","8,5611729",Mamma Mia,Giebeleichstrasse,9,Glattbrugg,8512,Mammamia.ch,Ja,1,Ja,Ja,Ja,Restaurant,Weinbar,Noodle,Pizza,Italienisch,Europäisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+FR,51754368,51754368,"47,3798091","8,5249253",Yi Long,Magnusstrasse ,16,Zürich,8004,https://www.yi-long-lin-asia-restaurant-zuerich.ch/,Nein,,Ja,Ja,Nein,Restaurant,Restaurant,Suppen,,Asiatisch,Chinesisch,Ja,Nein,Ja,Ja,Ja,Ja,,
+FR,52648334,52648334,"47,376670","8,5332799",Yume Ramen,Reitergasse ,6,Zürich,8004,https://www.yume-ramen.ch/,Nein,,Nein,Ja,Ja,Restaurant,Restaurant,Suppen,,Asiatisch,,Ja,Nein,Nein,Ja,Ja,Ja,,
+toess,64180591,64180591,,,Mesa,Weinbergstrasse ,75,Zürich,8006,mesa-restaurant.ch,Nein,3,Nein,Ja,Ja,Restaurant,,Gutbürgerlich,,Europäisch,Schweizerisch,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+FR,84968123,84968123,"47,4983532","8,7247212",Neghisi,Archplatz ,2,Winterthur,8400,https://www.negishi.ch/de/winterthur-archhoefe,Nein,2,Ja,Ja,Ja,Restaurant,Bar,Sushi,,Asiatisch,Japanisch,Ja,Nein,Nein,Ja,Ja,Ja,,
+FR,89282401,89282401,"47,5002649","8,7266443",Villa Duchessa,Stadthausstrasse,12,Winterthur,8400,https://www.villa-duchessa-winterthur.ch/,Nein,,,,,,,,,,,,,,,,,,
+FR,92102381,92102381,"47,3852962","8,4221759",Tschagli's,Birmensdorferstrasse,79,Urdorf,8902,https://www.facebook.com/pg/Tschaglis-210677926415110/posts/,Nein,1,Ja,Ja,Ja,Restaurant,Fastfood,Pizza,Burger,Europäisch,Europäisch,Ja,Nein,Nein,Ja,Ja,Ja,,
+FR,103122838,103122838,47.3435586,8.5368559,ZIegel oh Lac,Seestrasse,407,Zürich,8038,http://www.ziegelohlac.ch/,Nein,,Nein,Ja,Ja,Restaurant,Restaurant,Marktküche,,Schweizerisch,Europäisch,Ja,Nein,Ja,Ja,Ja,Ja,,
+toess,118184769,118184769,,,Weisses Schaf,Alte St. Gallerstrasse,36,Elsau,8352,dasweisseschaf.ch,Ja,1,Ja,Ja,Ja,Restaurant,,Gutbürgerlich,,Schweizerisch,Europäisch,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+toess,119247298,119247298,"47,3733042","8,5367495",Hiltl,Sihlstrasse,28,Zürich,8001,hiltl.ch,Nein,3,Nein,Ja,Ja,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,132397436,132397436,"47,5185658","8,5408733",Zum Goldenen Kopf,Marktgasse,9,Bülach,8180,www.zum-goldenen-kopf.ch,Nein,2,Ja,ja,ja,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Nein
+toess,135915056,135915056,,,Sporrer,Im Sporrer,1,Winterthur,8408,http://www.sporrer.ch/,Nein,2,Nein,Ja,Ja,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Ja,Nein,Ja,Ja,Ja,Nein,Nein
+FR,221820758,221820758,,,Pizzeria Napulè,Kirchgasse,59,Meilen,8706,https://www.napule.ch/de/meilen,Nein,2,,Ja,Ja,Restaurant,,Pizza,,Italienisch,,Ja,Nein,Nein,Nein,Ja,Ja,,Nein
+FR,232005036,232005036,,,Stählibuck,Stählibuckstrasse,38,Frauenfeld,8500,http://www.restaurantstaehlibuck.ch,Nein,2,Nein,Ja,Ja,Restaurant,,Fusion,Grill,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,232998398,232998398,,,Brauhaus,Neumarkt,9,Winterthur,8400,http://www.brauhaus.ch/,Nein,1,Ja,Ja,Ja,Restaurant,,Burger,,Amerikanisch,,Ja,Nein,Nein,Ja,Ja,Ja,Nein,Nein
+FR,246252799,246252799,47.498901,8.727264,Kafisatz,Spitalgasse 1,,Winterthur,8400,https://www.kafisatz.ch,,,,,,,,,,,,,,,,,,,
+toess,247766473,247766473,"47,4986261","8,7277212",Widder,Metzgasse,9,Winterthur,8400,http://gasthofzumwidder.ch/,Ja,1,Nein,Ja,Ja,Bar,,Gutbürgerlich,,Europäisch,,Ja,Ja,Nein,Ja,Ja,Ja,Nein,Nein
+Fast Delivery,256339532,256339532,,,Peking Garden,Hohlstrasse,560,Zürich,8048,,,3,Ja,,,,,,,,,,,,,Ja,Ja,,
+toess,257520643,257520643,,,Elggerhof,Vordergasse,15,Elgg,8353,http://www.elggerhof.ch/,ja,2,,Ja,Ja,Restaurant,,Noodle,,Chinesisch,Europäisch,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Nein
+toess,257644551,257644551,,,Da Pepino,Kirchgasse,4,Elgg,8353,http://frohsinn-elgg.ch/,nein,2,ja,ja,ja,Restaurant,,Pizza,,Europäisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Nein
+Fast Delivery,266312456,266312456,,,Wirtschaft Ziegelhütte,Hüttenkopfstrasse,70,Zürich,8050,,,3,Weiss nicht,,,,,,,,,,,,,Ja,Ja,Nein,
+Fast Delivery,267345323,267345323,,,Big Ben Westside Pub,Hardstrasse,234,Zürich,8005,,,3,,,,,,,,,,,,,,,Ja,Nein,
+home,267348518,267348518,,,McDonald's,Bahnhofpl.,5,Zürich,8001,https://www.mcdonalds.com/ch/de-ch.html,Nein,1,Ja,Ja,Ja,Fastfood,,Burger,,Amerikanisch,,Nein,Ja,Ja,Nein,Ja,Ja,,Ja
+Fast Delivery,267879350,267879350,,,Al Capone,,,,,,,3,Ja,,,,,,,,,,,,,Ja,Ja,,Nein
+Fast Delivery,268421310,268421310,,,Tiffins,Seefeldstrasse,61,Zürich,8008,,,2,,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+Fast Delivery,268421599,268421599,,,Asian Moon,Seefeldstrasse,40,Zürich,8008,,,2,,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+toess,268467807,268467807,"47,3675511","8,5457188",Kronenhalle,Raemistr,4,Zürich,8001,http://www.kronenhalle.com/,nein,3,nein,ja,nein,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Nein
+Fast Delivery,268473118,268473118,,,Bimi,Seefeldstrasse,25,Zürich,8008,,,4,Weiss nicht,,,,,,,,,,,,,,Ja,,Ja
+Fast Delivery,268654801,268654801,,,Grünwald,Regensdorferstrasse,237,Zürich,8049,,,4,Nein,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+Fast Delivery,269120288,269120288,,,Molino,Poststrasse,20,Uster,8610,,,4,,,,,,,,,,,,,,,Ja,,
+toess,270938366,270938366,"47,3702715","8,5401314",Heugümper,Waaggasse,4,Zürich,8001,restaurantheuguemper.ch,Nein,3,Nein,Ja,Nein,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+toess,270938706,270938706,"47,3689961","8,5402339",Milchbar,Kappelergasse ,16,Zürich,8001,www.milchbar.ch,Nein,2,Ja,Ja,Ja,Cafe,,Gutbürgerlich,,Schweizerisch,,Nein,Nein,Ja,Ja,Ja,Nein,Nein,Ja
+Fast Delivery,271148493,271148493,,,Outback Lodge,Stadelhoferstrasse,18,Zürich,8001,,,3,Nein,,,,,,,,,,,,,,Ja,Nein,Ja
+Fast Delivery,271148578,271148578,,,Koko Chicken,Stadelhoferstrasse,22,Zürich,8001,,,4,,,,,,,,,,,,,,Ja,Ja,,
+Fast Delivery,271151271,271151271,,,Dieci Restaurant,Zürichbergstrasse,231,Zürich,8044,,,3,Ja,,,,,,,,,,,,,Ja,,Nein,Ja
+Fast Delivery,271672265,271672265,,,A l'Opera,,,,,,,4,Weiss nicht,,,,,,,,,,,,,Ja,,,
+Kamikaze,272321240,272321240,"47,4995875","8,7313503",Kebaptreff,Oberer Graben ,40,Winterthur,8400,Döner Kebab Stand in Winterthur Wülflingen | Kebap Treff 2 (kebap-treff-2.ch),Nein,1,Ja,Nein,Ja,Fastfood,,Grill,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Nein,Nein,Ja
+Kamikaze,272321241,272321241,"47,4994329","8,7313948",Grabenbeck,Oberer Graben ,34,Winterthur,8400,https://www.debeck.ch/,Nein,1,Ja,Ja,Ja,Cafe,Fastfood,Sandwich,Pizza,Europäisch,Italienisch,Ja,Ja,Ja,Ja,Ja,Nein,Nein,Ja
+toess,282655576,282655576,"47,4982284","8,7270102",Fahrenheit,Steinberggasse,65,Winterthur,8400,http://www.fahrenheit-bar.ch/,Nein,1,Nein,Ja,Ja,Bar,,Suppen,,Europäisch,,Ja,Nein,Nein,Nein,Ja,Nein,Nein,Nein
+Fast Delivery,283458331,283458331,,,SAM'S Pizza Land,Schweizergasse,6,Zürich,8001,,,3,Weiss nicht,,,,,,,,,,,,,,Ja,Nein,Ja
+Fast Delivery,283689479,283689479,,,4. Akt,Heinrichstrasse,262,Zürich,8005,,,2,Weiss nicht,,,,,,,,,,,,,,Ja,,Ja
+Fast Delivery,288340413,288340413,,,Café Zähringer,Zähringerplatz,11,Zürich,8001,,,2,,,,,,,,,,,,,,,Ja,,
+FR,296565491,296565491,,,Kebab Haus Sofra,Steinackerstrasse,31,Urdorf,8902,,Nein,1,Ja,Ja,Ja,Fastfood,Restaurant,Grill,Fusion,Orientalisch,,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,297711769,297711769,,,Fujiya of Japan,Tessinerplatz,5,Zürich,8002,https://www.fujiya.ch/,Nein,3,Ja,Ja,Nein,Restaurant,,Sushi,Grill,Japanisch,Asiatisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,300384722,300384722,47.366393,8.546744,Mascotte,Theaterstrasse 10,,Zürich,8001,https://www.mascotte.ch,,,,,,,,,,,,,,,,,,,
+toess,301552459,301552459,,,Goodwin,Splügenstrasse,2,Zürich,8002,goodwin-steakhouse.ch,Nein,3,Nein,Ja,Ja,Restaurant,,Grill,,Amerikanisch,,Nein,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,301657450,301657450,,,Binario 3,Bahnhofstrasse,35,Fehraltorf,8320,,,3,,,,,,,,,,,,,,Ja,Ja,,
+Fast Delivery,305712903,305712903,,,Barone,,,,,,,3,Ja,,,,,,,,,,,,,Ja,Ja,,Ja
+Fast Delivery,310139076,310139076,,,Rolli's Steakhouse,Schaffhauserstrasse,352,Zürich,8050,,,5,Nein,,,,,,,,,,,,,,Ja,,
+Fast Delivery,311607628,311607628,,,Tenz Momo,Hohlstrasse,44,Zürich,8004,,,3,Ja,,,,,,,,,,,,,,Ja,Nein,Nein
+Fast Delivery,312130321,312130321,,,La Baracca,Kanzleistrasse,103,Zürich,8004,,,4,Ja,,,,,,,,,,,,,,,,Nein
+Fast Delivery,312645835,312645835,,,Wädi-Brau-Huus,Florhofstrasse,13,Wädenswil,8820,,,2,,,,,,,,,,,,,,Ja,Ja,Ja,
+Fast Delivery,313115222,313115222,,,Kebab-Haus Höngg ,Limmattalstrasse,227,Zürich,8049,,,2,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+Fast Delivery,316831596,316831596,,,Miki Ramen,Sihlfeldstrasse,63,Zürich,8003,,,4,Ja,,,,,,,,,,,,,,Ja,,
+Fast Delivery,317023457,317023457,,,2. Akt,Selnaustrasse,2,Zürich,8001,,,4,Weiss nicht,,,,,,,,,,,,,,,,
+Fast Delivery,320526598,320526598,,,Mc Gee's Irish Pub & Restaurant,Birmensdorferstrasse,83,Zürich,8003,,,3,Weiss nicht,,,,,,,,,,,,,Ja,Ja,,Ja
+Fast Delivery,321346682,321346682,,,SV Food Market Mensa ,Leonhardstrasse ,34,Zürich,8092 ,,,1,Nein,,,,,,,,,,,,,Ja,Ja,Ja,
+Fast Delivery,321346779,321346779,,,Rice Up!,Wolfgang-Pauli-Strasse,27,Zürich,8093,,,3,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+Fast Delivery,321364237,321364237,,,SV Mensa Polyterasse ,Leonhardstrasse ,34,Zürich,8092 ,,,1,Ja,,,,,,,,,,,,,Ja,Ja,Ja,Nein
+FR,331183852,331183852,47.371516,8.540126,Tao's Restaurant,Augustinergasse 3,,Zürich,8001,https://www.taos-zurich.ch/,Nein,2,Nein,Ja,Nein,Restaurant,Bar,Fusion,Gutbürgerlich,Europäisch,,Ja,Ja,Nein,Nein,Nein,Ja,Nein,Ja
+Fast Delivery,334300587,334300587,,,Aargauerhof,Hohlstrasse,43,,,,,3,Weiss nicht,,,,,,,,,,,,,,Ja,,
+toess,344660927,344660927,"47,3875486","8,5197706",New Point,Hardstrasse,240,Zürich,8005,newpointzuerich.ch,Nein,3,Ja,Ja,Ja,Restaurant,,Burger,,Schweizerisch,,Nein,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,344660930,344660930,,,Escher Wyss Döner,Hardstrasse,238,,,,,2,Ja,,,,,,,,,,,,,Ja,,Nein,
+Fast Delivery,345525759,345525759,,,Ararat,Bertastrasse ,1,Zürich,8003,,,2,Ja,,,,,,,,,,,,,Ja,,,Ja
+Fast Delivery,345591601,345591601,,,Paddy Reilly's,Talstrasse,82,Zürich,8001,,,4,,,,,,,,,,,,,,,Ja,Nein,Nein
+FR,359683717,359683717,,,Cucina,Pflanzschulstrasse,3,Winterthur,8400,,Nein,2,Ja,Ja,Ja,Restaurant,Restaurant,Pizza,Sushi,Italienisch,Asiatisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+toess,359685942,359685942,"47,5003358","8,7272460",Strauss,stadthausstr,8,Winterthur,8400,http://strauss-winterthur.ch/,Nein,3,Nein,Ja,Ja,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Nein,Nein,Ja,Ja,Ja,Nein,Nein
+FR,359686638,359686638,47.5004628,8.7268709,Rosa Pulver,Stadthausstrasse,10,Winterthur,8400,https://rosapulver.ch/,Nein,3,Nein,Ja,Ja,Restaurant,,Sandwich,Fusion,Amerikanisch,,Ja,Nein,Nein,Ja,Nein,Ja,,Ja
+toess,359687975,359687975,"47,4989829","8,7262079",Trübli,Bosshardengässchen ,2,Winterthur,8400,http://www.restaurant-truebli.ch/,nein,2,Nein,Ja,Nein,Restaurant,,Fusion,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+FR,359690232,359690232,47.497844,8.7284816,Le ciel bleu,Technikumstrasse,44,Winterthur,8400,,Nein,2,Nein,Ja,Ja,Pub,Bar,Gutbürgerlich,,Amerikanisch,,Ja,Nein,Nein,Nein,Nein,Ja,,Nein
+FR,359690572,359690572,47.4983902,8.7301298,Riva,Steinberggasse,2,Winterthur,8400,https://www.riva-bar.ch/,Nein,1,Nein,Ja,Ja,Bar,Pub,Suppen,Sandwich,Italienisch,Europäisch,Ja,Nein,Ja,Nein,Ja,Nein,,Ja
+FR,359690871,359690871, 47.4996801,8.72983,zur Sonne,Marktgasse,13-15,Winterthur,8400,https://www.zur-sonne.ch/,Nein,1,Nein,Ja,,Restaurant,Restaurant,Marktküche,,Schweizerisch,,Ja,Nein,Nein,Nein,Ja,Ja,,
+FR,359692293,359692293,47.499542,8.7201703,Stricker’s,Strickerstrasse,8,Winterthur,8400,https://restaurant-strickers.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Sandwich,,Amerikanisch,,Ja,Nein,Ja,Ja,Nein,Nein,,Nein
+FR,359694784,359694784,47.504621,8.7195676,Tandoor,Schützenstrasse,43,Winterthur,8400,http://www.restaurant-tandoor.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Fusion,,Indisch,Asiatisch,Ja,Ja,Nein,Nein,Ja,Ja,,Nein
+Fast Delivery,365838929,365838929,,,Kreis 6,Scheuchzerstrasse,65,,,,,4,Nein,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+toess,365839864,365839864,"47,3881577","8,5390379",Differente,Schaffhauserstrasse ,1,Zürich,8006,http://www.hotel-krone.ch/de/restaurant.html,nein,3,ja,ja,ja,Restaurant,,Marktküche,,Europäisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Nein
+Fast Delivery,370522868,370522868,,,Rösslibar,Rössligasse,3,Zürich,8001,,,5,Ja,,,,,,,,,,,,,,Ja,Ja,
+toess,370838914,370838914,"47,3736974","8,5436412",Steakhouse Oldtown,Niederdorfstarsse,19,Zürich,8001,steakhouse-oldtown.ch,Nein,2,Nein,Ja,Ja,Restaurant,,Grill,Burger,Amerikanisch,,Nein,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,370840562,370840562,,,Spaghetti Factory,Niederdorfstrasse,5,Zürich,8001,,,4,Nein,,,,,,,,,,,,,,Ja,Nein,Nein
+Fast Delivery,370844160,370844160,,,Andorra,Münstergasse ,20,Zürich,8001,,,4,Weiss nicht,,,,,,,,,,,,,,Ja,Nein,Nein
+FR,371172030,371172030,,,La Taqueria,Altstetterstrasse,140a,Zürich,8048,https://www.lataqueria.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Tapas,,Mexikanisch,,Ja,Nein,Nein,Nein,Ja,Ja,,Ja
+FR,382382202,382382202,"47,3924339","8,0447397",Creperie,Pelzgasse,23,Aarau,5000,http://lacreperie.ch,Nein,2,Ja,Ja,Ja,Restaurant,Bar,Gutbürgerlich,,Europäisch,,Ja,Nein,Ja,Ja,Ja,Ja,Nein,Ja
+Fast Delivery,386002566,386002566,,,Del Sole Pizzakurier,Limmattalstrasse,130,Zürich,8049,,,2,Ja,,,,,,,,,,,,,,Ja,Nein,
+Fast Delivery,418745367,418745367,,,Alumni Lounge ,Stefano-Franscini-Platz ,5,Zürich,8093,,,2,Ja,,,,,,,,,,,Ja,,Ja,,Ja,Ja
+Fast Delivery,418745368,418745368,,,Fusion meal & coffee ,Vladimir-Prelog-Weg ,10,Zürich,8093 ,,,1,Ja,,,,,,,,,,,,,Ja,Ja,Ja,Ja
+FR,441314886,441314886, 47.4803434,8.7639702,Freieck,Tösstalstrasse,287,Winterthur,8405,https://www.freieck-seen.ch/,Nein,3,Nein,Ja,Ja,Restaurant,,Marktküche,Gutbürgerlich,Schweizerisch,Europäisch,Nein,Nein,Nein,Nein,Ja,Ja,,Ja
+toess,471628001,471628001,"47,4954473","8,7183015",Outback Lodge,Lagerplatz,4,Winterthur,8406,https://www.outback-lodge.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Burger,,Amerikanisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+Fast Delivery,472774192,472774192,,,Zermatt Kebap Haus,Technikumstrasse,42,Winterthur,8400,,,1,,,,,,,,,,,,,,Ja,Ja,,Ja
+FR,476506169,476506169,47.5175273,8.6386389,Sternen ,Weiacherstrasse,38,Pfungen,8422,https://www.sternen-pfungen.ch/,Nein,3,Nein,Ja,Ja,Restaurant,,Marktküche,Gutbürgerlich,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+toess,485617148,485617148,"47,3602524","8,5521363",Stripped Pizza,Seefeldstrasse ,88,Zürich,8008,stripped-pizza.com,Nein,2,Ja,Ja,Ja,Restaurant,,Pizza,,Italienisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+FR,534878149,534878149, 47.5048564,8.7189785,nachbarsbox,Wülflingerstrasse,28,Winterthur,8400,https://nachbarsbox.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Burger,Grill,Amerikanisch,,Ja,Nein,Ja,Nein,Ja,Ja,,Ja
+toess,534881054,534881054,"47,5109747","8,6981313",Schloss,Wülflingerstr,214,Winterthur,8408,http://www.schloss-wuelflingen.ch/,Nein,3,Nein,Ja,Ja,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Ja,Nein,Ja,Ja,Ja,Nein,Nein
+toess,560156308,560156308,"47,5011461","8,7211262",Maharaja Curry,Wartstr,23,Winterthur,8400,http://www.maharaja-curry.ch/,Nein,2,Ja,Ja,ja,Restaurant,,Noodle,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+toess,561524250,561524250,"47,4981673","8,7291301",Winti-Kanne,Steinbergstr. ,25,Winterthur,8400,http://www.wintikanne.ch/,Nein,1,nein,Ja,Ja,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Nein
+Fast Delivery,563992871,563992871,,,Restaurant zum Wilden Mann,Steinmaurstrasse,1,Neerach,8173,,,4,Weiss nicht,,,,,,,,,,,,,,Ja,,
+Fast Delivery,564888514,564888514,,,Brauhaus,Neumarkt,7,Winterthur,8400,,,3,Nein,,,,,,,,,,,,,,Ja,Nein,Ja
+toess,564888543,564888543,"47,4986144","8,7267513",Neumarkt,Neumarkt ,6,Winterthur,8400,http://www.restaurant-neumarkt.ch/,Nein,2,Nein,Ja,Ja,Cafe,,Marktküche,,Europäisch,,Ja,Nein,Ja,Ja,Ja,Ja,Nein,Nein
+Fast Delivery,574685031,574685031,,,Manta Bar,Neuwiesenstrasse,1,Winterthur,8400,,,2,Ja,,,,,,,,,,,,,Ja,,,
+Fast Delivery,582819804,582819804,,,Café Lang,Limmatplatz,7,Zürich,8005,,,2,Weiss nicht,,,,,,,,,,,Ja,,Ja,,Nein,
+Kamikaze,595136362,595136362,47.3730935,8.534363,Babus Bakery & Coffeehouse,Löwenstrasse,1,Zürich,8001,www.babus.ch,Nein,1,Ja,Ja,Ja,Restaurant,Cafe,Gutbürgerlich,Suppen,Amerikanisch,Europäisch,Ja,Ja,Ja,Ja,Nein,Nein,Nein,Ja
+Fast Delivery,616972764,616972764,,,Babalu Zürich,Schmidgasse,6,Zürich,8001,,,3,,,,,,,,,,,,,,Ja,,Nein,Nein
+Fast Delivery,617327415,617327415,,,Restaurant Singapore,Badenerstrasse,530,Zürich,8048,,,3,Ja,,,,,,,,,,,,,Ja,Ja,Nein,
+Fast Delivery,633584154,633584154,,,Domino's Pizza,Universitätstrasse,11,Zürich,8006,,,2,Ja,,,,,,,,,,,,,Ja,Ja,,Ja
+Fast Delivery,633584200,633584200,,,The Alehouse Palmhof,,,,,,,4,Weiss nicht,,,,,,,,,,,,,,Ja,,
+Fast Delivery,633584224,633584224,,,The Lemon Grass Thai Takeaway,Universitätstrasse,31,Zürich,8006,,,2,,,,,,,,,,,,,,Ja,Ja,,
+FR,633601362,633601362,47.3726776,8.5436817,Henrici,Niederdorfstrasse,1,Zürich,8001,http://www.cafe-henrici.ch,Nein,1,Nein,Ja,Ja,Cafe,,Sandwich,,Amerikanisch,,Ja,Nein,Ja,Nein,Ja,Ja,,Ja
+Fast Delivery,638966018,638966018,,,Simon's Steakhouse,,,,,,,4,Weiss nicht,,,,,,,,,,,,,Ja,Ja,,
+Fast Delivery,638984360,638984360,,,Blue Monkey,Stüssihofstatt,3,Zürich,8001,,,4,,,,,,,,,,,,,,,Ja,,
+toess,639300780,639300780,"47,4950558","8,7177503",Badawi,Zur Kesselschmiede,27,Winterthur,8400,,Nein,2,Ja,Ja,Ja,Restaurant,,Noodle,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,648047492,648047492,,,Al Mouchtar,Theaterstrasse,7,Winterthur,8400,,,1,Weiss nicht,,,,,,,,,,,,,Ja,,,
+toess,648907100,648907100,"47,3694816","8,5391402",Sprüngli,Bahnhofstrasse,21,Zürich,8001,https://www.spruengli.ch/de/standorte/zuerich-bahnhofstrasse.html,Nein,2,Ja,Ja,Nein,Cafe,,Sandwich,,Europäisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Ja
+home,651516557,651516557,,,Sonne Pizzeria,Tösstalstrasse,244,Winterthur,8405,https://foodys24.ch/pizzeria-sonne/pickup,,1,Ja,Ja,Nein,Restaurant,,Pizza,,,,Ja,Nein,Nein,Nein,Ja,Ja,,Nein
+Fast Delivery,656327546,656327546,,,friskfisk.ch,,,,,,,4,Weiss nicht,,,,,,,,,,,,,Ja,Ja,,
+Fast Delivery,656649674,656649674,,,Ach'i,Brauerstrasse,4,Zürich,8004,,,3,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+FR,659475608,659475608,47.4981027,8.7409953,Hermannseck ,Hermannstrasse ,15,Winterthur,8400,https://www.hermannseck.ch/willkommen.html,Nein,2,Ja,Ja,Ja,Restaurant,,Pizza,Gutbürgerlich,Italienisch,Schweizerisch,Ja,Nein,Nein,Nein,Ja,Ja,,Nein
+FR,660560664,660560664,"47,3965002","8,5409347",Züri Bistro,Shopville-Railcity,,Zürich,8001,https://www.zueribistro.ch/,Nein,2,Ja,,,Fastfood,Restaurant,Burger,Grill,Europäisch,,Ja,Nein,Nein,Ja,Ja,Ja,,
+FR,677194766,677194766,,,Tom Yam,Frauenfelderstrasse,102,Oberwinterthur,8404,https://www.tomyam.ch/,Nein,1,Ja,Ja,Ja,Restaurant,Fastfood,Suppen,Fusion,Asiatisch,Thailändisch,Ja,Nein,Nein,Ja,Ja,Ja,,
+Kamikaze,693318615,693318615,47.3762665,8.5397921,Yoojis Sushi Deli,Bahnhofstrasse,102,Zürich,8001,www.yoojis.com,Nein,2,Ja,Ja,Ja,Restaurant,Fastfood,Sushi,,Japanisch,Asiatisch,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,693318643,693318643,,,Bachmann,Bahnhofstrasse,89,Zürich,8001,,,4,Ja,,,,,,,,,,,Ja,,,Ja,Nein,
+Fast Delivery,693318662,693318662,,,Starbucks,Bahnhofplatz,6,Zürich,8001,,,4,Ja,,,,,,,,,,,Ja,,,Ja,Nein,
+Fast Delivery,703057903,703057903,,,Ocean Five,Neumarkt,5,Winterthur,8400,,,3,Weiss nicht,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+FR,708997931,708997931,47.498676,8.7279703,CinCin,Metzggasse,10,Winterthur,8400,https://www.cincin-tea.ch/,Nein,1,Nein,Ja,Nein,Cafe,Bar,Sandwich,,Europäisch,,Nein,Nein,Nein,Nein,Nein,Ja,,Ja
+toess,709022313,709022313,"47,4984079","8,7288259",Insieme,Steinberggasse,24,Winterthur,8400,http://www.insieme-piadineria.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Tapas,,Europäisch,,Ja,Nein,Ja,Ja,Ja,Ja,Nein,Nein
+Kamikaze,731833436,731833436,"47,4978200","8,7276343",Tech Point,Technikumstrass,60,Winterthur,8400,,Nein,1,Ja,Ja,Ja,Fastfood,,Pizza,Grill,Europäisch,Italienisch,Ja,,Nein,Nein,Ja,Ja,Nein,Nein
+FR,763523653,763523653,47.4981861,8.731585,La Panetteria,Tösstalstrasse,6,Winterthur,8400,https://www.la-panetteria.ch/,Nein,2,Ja,Ja,Ja,Restaurant,Bar,Noodle,Fusion,Europäisch,italienisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+Fast Delivery,808458794,808458794,,,Peking Garden,Langstrasse,13,Zürich,8004,,,3,,,,,,,,,,,,,,,Ja,Nein,Ja
+Kamikaze,843534427,843534427," 47,3830838","8,5297506",Casa Aurelio,Langstrasse ,209,Zürich,8005,Casa Aurelio: Spanisches Restaurant in Zürich,ja,2,nein,ja,ja,Restaurant,Weinbar,Grill,Noodle,Europäisch,Spanisch,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+toess,855341264,855341264,"47,3724764","8,5262212",Coffee,Grüngasse ,5,Zürich,8004,http://coffeezurich.com/,nein,1,nein,ja,ja,Cafe,,Sandwich,,Europäisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Ja
+Fast Delivery,857470672,857470672,,,Neela,Zweierstrasse ,55,Zürich,8004,,,3,Ja,,,,,,,,,,,,,,Ja,Nein,Nein
+toess,869977914,869977914,"47,3734849","8,5287165",Molino,Stauffacherstr,31,Zürich,8004,http://molino.ch/fr/restaurants/zuerich-stauffacher.html,Nein,2,Ja,Ja,Ja,Restaurant,,Pizza,,Italienisch,,Ja,Nein,Nein,Nein,Ja,Ja,2Nein,Nein
+Fast Delivery,907598510,907598510,,,Santa Lucia,Rämistrasse,32,Zürich,8001,,,4,,,,,,,,,,,,,,,Ja,,Ja
+toess,920508401,920508401,"47,3771144","8,5281687",Ah Hua,Brauerstrasse ,9,Zürich,8004,ah-hua.ch,Nein,2,Ja,Ja,Nein,Restaurant,,Sushi,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Kamikaze,932278823,932278823,47.3806751,8.5337126,Chiang Mai Thai Shop,Zollstrasse,56,Zürich,8005,www.chiang-mai.ch,Nein,1,Ja,Ja,Ja,Restaurant,Fastfood,Noodle,Suppen,Thailändisch,Asiatisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,973933405,973933405,"47,3855243","8,5312041",Migros Restaurant,Limmatstrasse ,152,Zürich,8005,migros.ch,Nein,2,Ja,Ja,Ja,Restaurant,,Gutbürgerlich,,Schweizerisch,Asiatisch,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Ja
+Fast Delivery,983601220,983601220,,,Long Huang,Talstrasse,83,Zürich,8001,,,4,,,,,,,,,,,,,,Ja,Ja,Nein,Nein
+Kamikaze,988651681,988651681,47.380844,8.5347582,Der Grüne Libanon,Hafnerstrasse,13,Zürich ,8005,,Nein,1,Ja,Ja,Ja,Fastfood,Restaurant,Sandwich,,Orientalisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,988655652,988655652,,,Il Pentagramma,Josefstrasse,28,Zürich,8005,,,2,,,,,,,,,,,,,,Ja,,Nein,
+toess,1035744153,1035744153,"47,3760618","8,5288696",the sacred,Müllerstrasse ,64,Zürich,8004,vegelateria.ch,Nein,2,Ja,Ja,Ja,Restaurant,,Marktküche,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+FR,1044879404,1044879404, 47.3855315,9.2793461,zum Tannenbaum,Oberdorfstrasse ,1,Herisau,9100,https://speisekarte.menu/restaurants/herisau/zum-tannenbaum-1,Nein,,Nein,Ja,Ja,Restaurant,Restaurant,Pizza,Suppen,Schweizerisch,Europäisch,Ja,Nein,Nein,Ja,Ja,Ja,,
+Fast Delivery,1078854146,1078854146,,,Subway ,,,,,,,3,,,,,,,,,,,,,,Ja,,Nein,Nein
+toess,1235083458,1235083458,"47,3798297","8,5270667",Khujug,Schöneggstrasse,5,Zürich,8004,khujug.restaurant,Nein,2,Ja,Ja,Nein,Restaurant,,Noodle,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+FR,1244998721,1244998721,"47,3918051","8,0449938",Waldmeier,Graben,31,Aarau,5000,http://waldmeierbar.ch,Nein,3,Ja,Ja,Nein,Bar,Restaurant,Burger,Tapas,Europäisch,Asiatisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,1245160899,1245160899,,,Amboss Rampe,Zollstrasse,80,Zürich,8005,,,5,,,,,,,,,,,,,,,Ja,,
+Fast Delivery,1319875747,1319875747,,,Restaurant Schmiedstube Da Pepino,Alte Winterthurerstrasse,94,Wallisellen,8304,,,4,Ja,,,,,,,,,,,,,Ja,Ja,,Ja
+FR,1360237971,1360237971,"47,3651800","8,5212519",Maison Manesse,Hopfenstrasse ,2,Zürich,8045,http://www.mausonmanesse.ch,Nein,3,Nein,Ja,Nein,Restaurant,,Grill,Fusion,Europäisch,Asiatisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,1373309487,1373309487,,,Soul Köfte,Langstrasse,192,Zürich,8005,,,3,,,,,,,,,,,,,,,Ja,,Ja
+toess,1383580144,1383580144,"47,3838948","8,5307672",Samses,Langstrasse ,231,Zürich,8005,samses.com,Nein,2,Ja,Ja,Ja,Restaurant,,Marktküche,,Europäisch,Schweizerisch,Ja,Ja,Nein,Ja,Ja,Ja,Nein,Ja
+Fast Delivery,1442004393,1442004393,,,Ah-Hua,Ankerstrasse,110,Zürich,8004,,,3,Ja,,,,,,,,,,,,,Ja,Ja,,Ja
+Fast Delivery,1464406486,1464406486,,,3Men's Kebab,,,,,,,2,Ja,,,,,,,,,,,,,Ja,Ja,,
+Fast Delivery,1479407508,1479407508,,,Schloss Wülflingen,Wülflingerstrasse,214,Winterthur,8408,,,5,Nein,,,,,,,,,,,,,,,Nein,
+toess,1488980360,1488980360,"47,4907705","8,7125390",Zum Grüner Hund,Grenzstr. ,7,Winterthur,8406,http://www.zumgruenenhund.ch/,Nein,2,Nein,Ja,Ja,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Nein,Nein,Nein,Nein,Ja,Nein,Nein
+toess,1496400845,1496400845,"47,4005575","8,5859139",La Fonte,Dübendorferstr,223,Zürich,8051,http://www.la-fonte.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Pizza,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+Fast Delivery,1528733083,1528733083,,,San Gennaro,,,,,,,2,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+toess,1586370722,1586370722,"47,3739693","8,5462490",Rechberg,Chorgasse ,20,Zürich,8001,rechberg1837.com,Nein,3,Nein,Ja,Nein,Restaurant,,Gutbürgerlich,,Schweizerisch,,Nein,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,1624801464,1624801464,,,Runway 34 - Hangar-Restaurant,Rohrholzstrasse,67,,,,,3,Weiss nicht,,,,,,,,,,,,,,Ja,,Ja
+Fast Delivery,1625431887,1625431887,,,Restaurant Maharani,Limmattalstrasse,252,,,,,3,Ja,,,,,,,,,,,,,Ja,Ja,,
+Fast Delivery,1695186448,1695186448,,,Gasthof Falken Wiedikon,Birmensdorferstrasse,150,Zürich,8003,,,4,Nein,,,,,,,,,,,,,,Ja,Nein,
+Fast Delivery,1701559604,1701559604,,,Ristorante Schönau ,Hohlstrasse ,78,Zürich,8004,,,5,,,,,,,,,,,,,,,Ja,,
+Kamikaze,1707472224,1707472224," 47,4094185","8,5962510",Kaimug Glattzentrum,Neue Winterthurerstrasse ,99,Wallisellen,8304,taste thai | KAIMUG,nein,1,ja,ja,nein,Restaurant,,Noodle,,Asiatisch,Thailändisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein.1,Ja
+Kamikaze,1710700206,1710700206," 47,3608803","8,5478901",Ristorante Frascati,Bellerivestrasse ,2,Zürich,8008,Molino.ch,Ja,1,Ja,ja,ja,Restaurant,Weinbar,Noodle,Pizza,Italienisch,Europäisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,1768874528,1768874528,,,Gibswilerstube,Tösstalstrasse,466,Gibswil,8498,,,4,Ja,,,,,,,,,,,,,,Ja,,Ja
+FR,1788438297,1788438297,47.2954143,8.7870002,zur Traube,Bönlerstrasse,21,Gossau,8626,https://www.traubeottikon.ch/home,Nein,2,Ja,Ja,Ja,Restaurant,Restaurant,Gutbürgerlich,Marktküche,Schweizerisch,Europäisch,Ja,Nein,Nein,Nein,Ja,Ja,,
+Fast Delivery,1822590892,1822590892,,,Freihof,Dürntnerstrasse,4,Hinwil,8340,,,4,,,,,,,,,,,,,,,Ja,Nein,Ja
+Fast Delivery,1828354019,1828354019,,,Ami Tea Room,,,,,,,5,,,,,,,,,,,,Ja,,,,Nein,
+FR,1861539580,1861539580,47.3686456,8.5015488,Tamarind Hill,Birmensdorferstrasse,427,Zürich,8055,http://www.tamarindhill.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Fusion,,Indisch,,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+Fast Delivery,1871299335,1871299335,,,Häxehüsli,Neue Winterthurerstrasse,14,Baltenswil,8303,,,2,,,,,,,,,,,,,,Ja,Ja,,Nein
+toess,1964156339,1964156339,"47,3736181","8,5456942",New Bombay,Predigerpl.,34,Zürich,8001,newbombay.ch,Nein,1,Ja,Ja,Nein,Restaurant,,Noodle,,Asiatisch,Indisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,2028881393,2028881393,,,Cafe Bar Memo,Badenerstrasse ,676,Zürich,8048,,,2,Ja,,,,,,,,,,,,,Ja,,Nein,Nein
+Fast Delivery,2096668239,2096668239,,,Ruenthai 2 Take Away,Badenerstrasse,582,Zürich,8048,,,3,Ja,,,,,,,,,,,,,Ja,,Nein,Nein
+Fast Delivery,2124855613,2124855613,,,Frau Gerolds Garten,Geroldstrasse,23,Zürich,8005,,,3,,,,,,,,,,,,,,,Ja,,Ja
+Fast Delivery,2150869461,2150869461,,,Bäckerei Fleischli,Sonnenhof,1,Bülach,8180,,,3,Ja,,,,,,,,,,,Ja,,,,,Ja
+Fast Delivery,2262480164,2262480164,,,Heidi & Tell Co.,Gotthardstrasse,66,Zürich,8002,,,3,,,,,,,,,,,,,,Ja,,Nein,Nein
+FR,2320552226,2320552226,,,Sweet Moon,Alte Bremgartenstrasse,8,Rudolfstetten,8964,https://sweet-moon.ch/,Nein,2,Ja,Ja,Ja,Restaurant,Cafe,,,Asiatisch,Thailändisch,Ja,Ja,Nein,Ja,Ja,Ja,,
+Fast Delivery,2408277249,2408277249,,,McDonald's,,,,,,,2,Ja,,,,,,,,,,,,,Ja,,,Ja
+Fast Delivery,2408277255,2408277255,,,Air Restaurant,,,,,,,3,Weiss nicht,,,,,,,,,,,,,Ja,Ja,,Ja
+Fast Delivery,2463374628,2463374628,,,Restaurant Gertrudhof,Gertrudstrasse,26,Zürich,8003,,,4,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Nein
+Fast Delivery,2466736061,2466736061,,,Tres Amigos,,,,,,,3,Nein,,,,,,,,,,,,,,Ja,Nein,
+toess,2493971952,2493971952,"47,5010807","8,7325260",Bloom,Stadhaustr. ,4,Winterthur,8400,http://bloom.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Noodle,,Europäisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Ja
+Fast Delivery,2514250862,2514250862,,,Avanti Pizza,Stationsstrasse,1,Zürich,8003,,,3,Ja,,,,,,,,,,,,,Ja,Ja,,Nein
+Fast Delivery,2526218486,2526218486,,,Starbucks,,,,,,,3,,,,,,,,,,,,,,Ja,,Nein,
+FR,2570468652,2570468652,47.4943016,8.7399559,Al Giardino,Tösstalstrasse,70,Winterthur,8400,https://algiardino.ch/,Nein,3,Ja,Ja,Ja,Restaurant,Bar,Gutbürgerlich,Gutbürgerlich,Europäisch,Mediterran,Ja,Nein,Nein,Nein,Ja,Ja,Nein,
+toess,2599493797,2599493797,"47,5308255","8,5820938",Spatz,Dorfstr. ,2,Freienstein,8427,http://bistrospatz.ch/,ja,2,ja,Ja,Ja,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Ja,Nein,Ja,Ja,Ja,Nein,Nein
+toess,2599591050,2599591050,"47,5307317","8,5751689",Al Cervo,Kirgasse,33,Rorbas,8427,http://www.restaurant-alcervo.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Pizza,,Europäisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Nein
+toess,2711625369,2711625369,"47,3719325","8,5402773",Churrasco,Glockengasse,9,Zürich,8001,churrasco.ch,Nein,3,Nein,Ja,Ja,Restaurant,,Grill,,Schweizerisch,,Nein,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+FR,2904476136,2904476136,"47,3847907","8,5277141",Friends Corner,Josefstrasse,146,Zürich,8005,http://www.friendcorner.ch,Nein,1,Ja,Ja,Nein,Fastfood,Restaurant,Tapas,,Europäisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Nein
+toess,2904487294,2904487294,"47,3838905","8,5289598",Josef,Gasometerstrasse,24,Zürich,8005,josef.ch,Nein,3,Nein,Ja,Ja,Restaurant,,Marktküche,,Europäisch,,Ja,Nein,Nein,Ja,Ja,Ja,Nein,Ja
+Fast Delivery,2941529903,2941529903,,,Grand Café du Musée,Kirchplatz,14,Winterthur,8400,,,3,Ja,,,,,,,,,,,,,Ja,,Nein,Ja
+toess,2957645174,2957645174,"47,3902940","8,5392273",Thali,Schaffhauserstrasse,32,Zürich,8001,thaliindianrestaurant.ch,Nein,2,Ja,Ja,Nein,Restaurant,,Noodle,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+home,2976466011,2976466011,,,Klosterhof,Klosterhof,3,Rüti,8630,http://www.pizzeriaklosterhof.ch/,Nein,1,Ja,Ja,Nein,Restaurant,,,,Schweizerisch,,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+Fast Delivery,3052418956,3052418956,,,Adler,,,,,,,4,,,,,,,,,,,,,,,Ja,Nein,
+Fast Delivery,3077319475,3077319475,,,McCafé ,,,,,,,2,Ja,,,,,,,,,,,Ja,,,Ja,Nein,
+Fast Delivery,3078606734,3078606734,,,Yume-Ramen,Reitergasse,6,Zürich,8004,,,3,,,,,,,,,,,,,,Ja,Ja,Nein,
+Kamikaze,3124969719,3124969719,"47,4998710","8,7312983",Mantabar ,Oberer Graben ,46,Winterthur,8400,MANTA BAR // SANDWICH KURIER // WINTERTHUR - ZÜRICH (manta-bar.ch),Nein,1,Ja,Ja,Ja,Restaurant,Bar,Noodle,,Europäisch,Italienisch,Ja,,Nein,Nein,Ja,Nein,Nein,Ja
+toess,3210582737,3210582737,"47,3782199","8,5441708",Mohini,Weinbergstrasse ,15,Zürich,8001,mohini.ch,Nein,1,Nein,Ja,Nein,Restaurant,,Gutbürgerlich,,Schweizerisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,3256284873,3256284873,"47,3916392","8,5250913",San Genaro,Hönggerstrasse ,43,Zürich,8037,https://www.sangennarozurigo.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Pizza,,Italienisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+FR,3268664480,3268664480,"47,4101540","8,5956174",Negishi,Richtiplatz,3,Wallisellen,8304,http://www.nooch.ch,Nein,3,Ja,Ja,Ja,Restaurant,,Sushi,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,3268664483,3268664483,,,Sahar,Richtiplatz,3,Wallisellen,8304,,,4,Ja,,,,,,,,,,,,,,Ja,,Ja
+FR,3268664488,3268664488, 47.4101166,8.5949279,Zapote,Richtipl.,4,Wallisellen,8304,https://www.zapote.ch/,Nein,,Ja,Ja,Ja,Restaurant,,Suppen,Marktküche,Schweizerisch,Europäisch,Ja,Ja,Ja,Ja,Ja,Ja,,
+Fast Delivery,3284823886,3284823886,,,Noodle House,,,,,,,4,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+FR,3302535830,3302535830,"47,3938063","8,0438606",Tuchlaube,Metzgergasse,18,Aarau,5000,http://tuchlaubeaarau.ch,Nein,2,Nein,Ja,Ja,Cafe,Bar,Burger,Tapas,Europäisch,,Ja,Ja,Nein,Ja,Ja,Ja,Nein,Ja
+Fast Delivery,3393448593,3393448593,,,franzos,Limmatquai ,138,Zürich,8001,,,4,Nein,,,,,,,,,,,Ja,,,,,
+Fast Delivery,3398108562,3398108562,,,Clarke's,Badenerstrasse,657,Zürich,8048,,,4,Weiss nicht,,,,,,,,,,,,,Ja,,,
+toess,3472768901,3472768901,"47,3776411","8,5334110",Beetnut,Lagerstrasse ,16b,Zürich,8004,beetnut.com,Nein,2,Ja,Ja,Ja,Restaurant,,Marktküche,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,3483494147,3483494147,"47,4990841","8,7263487",Subway,Neumarkt ,17,Winterthur,8400,https://www.subway-winterthur-neumarkt.ch/,Nein,1,Ja,Ja,Nein,Restaurant,,Sandwich,,Amerikanisch,,Ja,Ja,Ja,Ja,Ja,Ja,,Ja
+toess,3645923297,3645923297,"47,3762816","8,5386097",Roots,Lintheschergasse,15,Zürich,8001,rootsandfriends.com,Nein,2,Ja,Ja,Ja,Restaurant,,Gutbürgerlich,,Schweizerisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Ja
+FR,3681157591,3681157591,,,You You Stix,Neue Fossertstrasse ,5,Schlieren,8952,https://www.parkside-schlieren.ch/you-you-stix,Nein,,Ja,Ja,Ja,Restaurant,,Sandwich,Burger,Asiatisch,Chinesisch,Ja,Nein,Ja,Ja,Ja,Ja,,
+Fast Delivery,3706789050,3706789050,,,Didi's Frieden,Stampfenbachstrasse,32,Zürich,8006,,,4,Nein,,,,,,,,,,,,,,Ja,Nein,Ja
+FR,3726134745,3726134745,47.3840062,8.5311406,Burgermeister,Langstrasse,238,Zürich,8005,http://www.burger-meister.ch/,Nein,1,Ja,Ja,Ja,Fastfood,Restaurant,Burger,,Amerikanisch,,Ja,Nein,Nein,Nein,Ja,Ja,,Nein
+Fast Delivery,3771823688,3771823688,,,Allegrotto,Bederstrasse,102,Zürich,8002,,,2,,,,,,,,,,,,,,,Ja,Nein,
+FR,3875945857,3875945857,47.36823,8.541297,Metropol,Fraumünsterstrasse 12,,Zürich,8001,https://www.metropol-restaurant.ch,,,,,,,,,,,,,,,,,,,
+FR,3890806031,3890806031,47.4978104,8.7282284,Ässbar,Technikumstrasse,50,Winterthur,8400,https://aess-bar.ch/winterthur-2/,Nein,1,Ja,Ja,Nein,Cafe,Bar,Sandwich,Gutbürgerlich,Schweizerisch,Europäisch,Ja,Nein,Ja,Nein,Ja,Nein,,
+home,3926088056,3926088056,,,Burgermeister Oberdorf,Oberdorfstrasse,8,Zürich,8001,https://www.burger-meister.ch/,Nein,1,Ja,Ja,Ja,Fastfood,,Burger,,Amerikanisch,,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+toess,3926182143,3926182143,"47,3760905","8,5288241",Vegelateria,Müllerstrasse ,64,Zürich,8004,vegelateria.ch,Nein,2,Ja,Ja,Ja,Restaurant,,Marktküche,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+Fast Delivery,3932278823,3932278823,,,Chiang Mai,Zollstrasse,56,Zürich,8005,,,3,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Nein
+Fast Delivery,4035706224,4035706224,,,Apo THEKE,Zürichbergstrasse,17,Zürich,8032,,,2,Ja,,,,,,,,,,,Ja,,Ja,,Nein,
+toess,4045806097,4045806097,"47,5205292","8,5403074",Roy's,Winterthurerstr,3,Bülach,8180,https://www.roys-restaurant-buelach.ch/,Nein,1,Ja,Ja,Ja,Fastfood,,Burger,,Europäisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+FR,4095400161,4095400161,47.5018041,8.7279949,Les Coulisses,Theaterstrasse ,6,Winterthur,8400,,,,,,,,,,,,,,,,,,,,
+FR,4095400172,4095400172,,,Trois Tilleuls,Schickstrasse,11,Winterthur,8400,https://www.lindberg.ch/de/patienten/bistro-trois-tilleuls/,Nein,2,Nein,Ja,Ja,Restaurant,Cafe,Marktküche,Gutbürgerlich,Europäisch,Italienisch,Ja,Nein,Ja,Ja,Ja,Ja,,
+toess,4095400193,4095400193,"47,5058456","8,7194072",Nachbarsgarten,Feldstrasse,22,Winterthur,8400,http://www.nachbarsgarten.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,4095987419,4095987419,"47,5009501","8,7222403",Thai Bistro,Wartstrasse,12,Winterthur,8400,http://www.thaibistro.ch/,Nein,2,Ja,Ja,Nein,Restaurant,,Noodle,,Asiatisch,,Ja,Ja,Ja,Ja,Ja,Ja,,Ja
+toess,4095987421,4095987421,"47,4917878","8,7137065",Caruso,Tössfeldstr. ,30,Winterthur,8406,http://www.ristorante-caruso.ch/,Nein,2,Ja,Ja,Nein,Restaurant,,Noodle,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+toess,4095987430,4095987430,"47,4932416","8,7428894",Viet-Long,Allmannstrasse,20,Winterthur,8400,vietlong.ch,Nein,2,Ja,Ja,Ja,Restaurant,,Noodle,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,,Nein
+FR,4095987436,4095987436,47.4935044,8.7154825,Pasta e piu,Tössfeldstrasse,10,Winterthur,8406,http://www.ristorante-pastaepiu.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Pizza,,Italienisch,,Ja,Nein,Nein,Nein,Ja,Ja,,Ja
+toess,4109042665,4109042665,"47,3740885","8,5408521",Konshi,Hofwiesenstr,4,Zürich,8001,http://www.konshi.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Sushi,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,4109826834,4109826834,"47,4979040","8,7290181",Türmli Bar,Technikumstr,36,Winterthur,8400,https://tuermli-bar.jimdofree.com/,Ja,1,Nein,Nein,Ja,Pub,,Sandwich,,Europäisch,,Ja,Ja,Nein,Nein,Nein,Nein,Nein,Nein
+Fast Delivery,4172097485,4172097485,,,Ayverdi's ,,,,,,,4,Ja,,,,,,,,,,,,,Ja,Ja,Nein,
+Fast Delivery,4209304315,4209304315,,,Subway,Industriestrasse,22,Volketswil,8604,,,5,Ja,,,,,,,,,,,,,Ja,,Ja,Nein
+Fast Delivery,4259128853,4259128853,,,Tibits,Tramstrasse,2,Zürich,8050,,,3,Ja,,,,,,,,,,,Ja,,Ja,Ja,Nein,Ja
+Fast Delivery,4283611289,4283611289,,,Schönau,Hohlstrasse,,Zürich,8004,,,3,Weiss nicht,,,,,,,,,,,,,,Ja,Nein,Ja
+toess,4313510389,4313510389,"47,3631314","8,5123238",Daizy,Raffelstr,28,Zürich,8045,http://daizy.ch/,Nein,2,Nein,ja,Nein,Restaurant,,Fusion,,Europäisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Nein
+Fast Delivery,4358977790,4358977790,,,Chickeria,Unterer Graben,33,Winterthur,8400,,,2,,,,,,,,,,,,,,Ja,Ja,,Ja
+Kamikaze,4364350638,4364350638,47.3726072,8.5339208,Cartell,Sihlporte,3,Zürich,8001,www.cartell.ch,Nein,1,Ja,Ja,Ja,Fastfood,Fastfood,Tapas,Sandwich,Mexikanisch,Mexikanisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,4376086580,4376086580,,,Dieci Pizzakurier,Seestrasse,55,Küsnacht,8700,,,4,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Nein
+Fast Delivery,4402737890,4402737890,,,Zum Gaul,Geroldstrasse,35,Zürich,8005,,,3,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+toess,4406891594,4406891594,"47,3818280","8,5326917",Wesley's Kitchen,Josefstrasse ,48,Zürich,8005,wesleys-kitchen.ch,Nein,2,Ja,Ja,Nein,Restaurant,,Sushi,Noodle,Asiatisch,Chinesisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+FR,4413895695,4413895695,47.3888334,8.5224703,The Butcher,Heinrichstrasse,239,Zürich,8005,https://www.butcher.ch/zuerich-heinrichstrasse,Nein,2,Ja,Ja,Ja,Fastfood,Restaurant,Burger,,Amerikanisch,,Ja,Nein,Nein,Nein,Ja,Ja,,Ja
+Fast Delivery,4417689793,4417689793,,,Domino's Pizza,,,,,,,5,Ja,,,,,,,,,,,,,,Ja,,
+Fast Delivery,4424600898,4424600898,,,Brasserie Federal,Bahnhofplatz,15,Zürich,8001,,,3,Nein,,,,,,,,,,,,,,Ja,,Ja
+Fast Delivery,4434577593,4434577593,,,Villa Duchessa,Stadthausstrasse,12,Winterthur,8400,,,3,,,,,,,,,,,,,,Ja,Ja,,
+Fast Delivery,4476560475,4476560475,,,Starbucks ,,,,,,,4,Ja,,,,,,,,,,,Ja,,,Ja,Nein,
+Kamikaze,4486137546,4486137546,"47,5190254","8,7205149","Migros Restaurant
+Rosenberg",Schaffhauserstrasse,152,Winterthur,8400,Restaurants & Gastronomie | Einkaufszentrum Rosenberg - Rosenberg,Nein,1,Ja,Ja,Nein,Restaurant,Fastfood,Gutbürgerlich,Marktküche,Europäisch,Asiatisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,4501493398,4501493398,,,Binz 38,Binzstrasse,38,Zürich,8045,,,3,Weiss nicht,,,,,,,,,,,,,Ja,,Nein,Ja
+Fast Delivery,4512119699,4512119699,,,The Butcher,Hofwiesenstrasse,363,Zürich,8050,,,3,Ja,,,,,,,,,,,,,Ja,,Ja,Ja
+FR,4512126808,4512126808,"47,3923124","8,0446740",Al Ahram,Zwischen den Toren,10,Aarau,5000,http://alahram.ch,Nein,2,Nein,Ja,Nein,Restaurant,,Tapas,,Afrikanisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,4604638576,4604638576,"47,3807187","8,5265220",Kokoro,Neufrankenagsse,25,Zürich,8004,kokoro-restaurant.ch,Nein,2,Ja,Ja,Ja,Restaurant,,Noodle,Sushi,Asiatisch,Chinesisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,4644391123,4644391123,,,LILY'S Factory,Sihlfeldstrasse,58,Zürich,8003,,,4,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+FR,4773523291,4773523291,47.6409739,8.6722889,Traube,Dorfstrasse,5,Rudolfingen,8465,https://www.traube-rudolfingen.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Gutbürgerlich,,Schweizerisch,Europäisch,Ja,Nein,Ja,Nein,Ja,Ja,,Ja
+Fast Delivery,4785609122,4785609122,,,Holy Cow!,Löwenstrasse,51,Zürich,8001,,,3,Ja,,,,,,,,,,,,,Ja,Ja,Ja,Ja
+Fast Delivery,4808524921,4808524921,,,Hi und da,Obergasse,32,Winterthur,8400,,,2,,,,,,,,,,,,Ja,,Ja,,Nein,Ja
+Fast Delivery,4833061544,4833061544,,,Starbucks Coffee,,,,,,,3,Ja,,,,,,,,,,,Ja,,,,,
+Fast Delivery,4833061565,4833061565,,,Yooji's,Beethovenstrasse,32,Zürich,8002,,,5,Ja,,,,,,,,,,,,,,Ja,,Ja
+Fast Delivery,4833061570,4833061570,,,Rooftop Restaurant,Bahnhofstrasse,74,Zürich,8001,,,4,Weiss nicht,,,,,,,,,,,Ja,,,,,
+Fast Delivery,4839549446,4839549446,,,Binz & Kunz,Räffelstrasse,17,Zürich,8045,,,3,Weiss nicht,,,,,,,,,,,,,Ja,,,
+Fast Delivery,4848816896,4848816896,,,Jelmoli Restaurant,Seidengasse,1,Zürich,8001,,,3,Weiss nicht,,,,,,,,,,,Ja,,Ja,Ja,,Ja
+Fast Delivery,4860115691,4860115691,,,Sprüngli Café & Restaurant,Bahnhofstrasse,21,Zürich,8001,,,4,Ja,,,,,,,,,,,Ja,,,Ja,Nein,
+toess,4860115709,4860115709,"47,3672776","8,5455633",Sternen Grill,Theaterstrasse,22,Zürich,8001,sternengrill.ch,Nein,2,Ja,Ja,Ja,Restaurant,,Grill,Burger,Amerikanisch,,Nein,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,4868065118,4868065118,,,Ziegelhütte,Dättnauerstrasse,26,Winterthur,8406,,,4,Weiss nicht,,,,,,,,,,,,,,Ja,Nein,
+Fast Delivery,4868072655,4868072655,,,b.good,Langstrasse,211,Zürich,8005,,,3,Ja,,,,,,,,,,,,,Ja,Ja,,
+Fast Delivery,4892315255,4892315255,,,Bäckerei Hausammann,Vorderberg,5,Zürich,8044,,,4,Ja,,,,,,,,,,,Ja,,,,Nein,Ja
+Fast Delivery,4927374862,4927374862,,,Le Mezzerie de Moudi,Bertastrasse,36,Zürich,8003,,,3,Weiss nicht,,,,,,,,,,,,,,Ja,,
+toess,4934508745,4934508745,"47,3715304","8,5209454",Kle,Zweierstrasse,114,Zürich,8003,de.restrautantklee.com,Nein,2,Ja,Ja,Nein,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Ja,Nein,Ja,Ja,Ja,Nein,Ja
+FR,4935627381,4935627381,47.3545311,8.5560474,Miracle,Fröhlichstrasse,37,Zürich,8008,https://miracleseefeld.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Pizza,,Italienisch,,Ja,Nein,Nein,Nein,Ja,Ja,,Nein
+toess,4940639847,4940639847,"47,3708105","8,5147617",Mesob,Rotachstrasse,33,Zürich,8003,mesob-restaurant.ch,Nein,2,Ja,Ja,Ja,Restaurant,,Noodle,,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,4947052966,4947052966,,,Zambale,Bankstrasse,11,Uster,8610,,,3,,,,,,,,,,,,,,Ja,Ja,,
+FR,4948524161,4948524161,47.3695668,8.5058334,il Basilico,Birmensdorferstrasse,364,Wiedikon,8055,http://www.ilbasilico.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Pizza,,Italienisch,,Ja,Nein,Nein,Nein,Ja,Ja,,Ja
+Fast Delivery,4952797110,4952797110,,,Zapote,Binzallee,4,Zürich,8055,,,3,Ja,,,,,,,,,,,,,Ja,,,Ja
+Fast Delivery,4958366052,4958366052,,,Yen's,Hallwylstrasse ,43,Zürich,8004,,,3,Ja,,,,,,,,,,,,,Ja,Ja,,
+toess,4963589219,4963589219,"47,3827596","8,5437443",Klara's kitchen ,Weinbergstrasse ,68,Zürich,8006,klaraskitchen.ch,Nein,2,Ja,Ja,Nein,Restaurant,,Gutbürgerlich,,Europäisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,4985409623,4985409623,,,Burger King,Untertor,33,Winterthur,8400,,,3,,,,,,,,,,,,,,Ja,,,
+Fast Delivery,5003371855,5003371855,,,Carcajou Mobile,Rheintalstrasse,,,,,,3,,,,,,,,,,,,,,,Ja,Nein,Ja
+Fast Delivery,5034483580,5034483580,,,ALIBABA,,,,,,,3,Ja,,,,,,,,,,,,,Ja,,Nein,
+Fast Delivery,5034602925,5034602925,,,KIN ,Meinrad-Lienert-Strasse,1,Zürich,8003 ,,,5,Nein,,,,,,,,,,,,,,Ja,Nein,Nein
+Fast Delivery,5117218966,5117218966,,,Al Forno ,Universitätstrasse ,40,Zürich,8006,,,3,Ja,,,,,,,,,,,,,Ja,,,Ja
+Fast Delivery,5134936743,5134936743,,,Più,Hardstrasse,259,Zürich,8005,,,4,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+Fast Delivery,5314501521,5314501521,,,Chalet Winzerhaus,Haslernstrasse,28,Weiningen,8104,,,4,Weiss nicht,,,,,,,,,,,,,Ja,Ja,Nein,
+FR,5320192449,5320192449,47.4624948,8.7146159,Rossberg,Rossbergstrasse,41,Kemptthal,8310,https://rossberg-winterthur.ch/,Nein,2,Ja,Ja,Nein,Restaurant,,Gutbürgerlich,,Schweizerisch,,Ja,Nein,Nein,Nein,Ja,Ja,,Ja
+Fast Delivery,5334093616,5334093616,,,Akgül Kebab,Bandwiesstrasse,1,Rüti,8630,,,5,,,,,,,,,,,,,,,,,Ja
+toess,5354821207,5354821207,"47,3687901","8,5339950",Gärtnerei,Stockerstrasse,55,Zürich,8002,http://www.gartnerei.ch/,nein,1,ja,ja,ja,Restaurant,,Suppen,,Europäisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Ja
+Fast Delivery,5370500717,5370500717,,,Ayverdi's,Wehntalerstrasse,289,Zürich,8046,,,5,Ja,,,,,,,,,,,,,Ja,Ja,,Ja
+FR,5401214355,5401214355,"47,3921842","8,0442509",Lockentopf,Zwischen den Toren,18,Aarau,5000,http://lockentopf.ch,Nein,2,Nein,Ja,Ja,Cafe,Bar,Sushi,Tapas,Asiatisch,,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+toess,5427821057,5427821057,"47,3862517","8,5287289",Tadka,Quellenstrasse,49,Zürich,8005,https://tadka.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Noodle,,Asiatisch,Chinesisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,5648366364,5648366364,,,Zapote,Löwenstrasse,11,Zürich,8001,,,3,Ja,,,,,,,,,,,,,Ja,Ja,,
+Fast Delivery,5652355504,5652355504,,,169 West,Weststrasse,169,Zürich,8003,,,3,,,,,,,,,,,,Ja,,Ja,,,
+Fast Delivery,5653594946,5653594946,,,Richie’s Chicken,Aemtlerstrasse,13,Zürich,8003,,,2,Ja,,,,,,,,,,,,,Ja,Ja,,Nein
+Fast Delivery,5791885791,5791885791,,,Falken,,,,,,,3,Weiss nicht,,,,,,,,,,,,,,Ja,,Ja
+Fast Delivery,5806853331,5806853331,,,Holy Cow!,,,,,,,3,Ja,,,,,,,,,,,,,Ja,,Ja,
+toess,5894243473,5894243473,"47,4981047","8,7274279",Grepery,Steinberggasse,59,Winterthur,8400,http://www.grepery.ch/,Nein,2,ja,ja,ja,Restaurant,,Tapas,,Europäisch,,Ja,Ja,Ja,Ja,Ja,Ja,Nein,Nein
+Fast Delivery,6082078700,6082078700,,,Tandoor Restaurant + Takeaway,Schützenstrasse ,43,Winterthur,8400,,,4,,,,,,,,,,,,,,,Ja,Nein,
+Fast Delivery,6143845342,6143845342,,,Bahnhöfli,,,,,,,4,,,,,,,,,,,,,,Ja,Ja,Nein,
+Fast Delivery,6172794895,6172794895,,,Momo Bar,Dorfgasse,21,Horgen,8810,,,4,Nein,,,,,,,,,,,,,,Ja,Nein,Ja
+Kamikaze,6284033411,6284033411,47.3763392,8.5341397,Burgermeister,Kasernenstrasse,77b,Zürich ,8004,www.burger-meister.ch,Nein,1,Ja,Ja,Ja,Fastfood,Restaurant,Burger,,Amerikanisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+home,6510465867,6510465867,,,Pizza con Amore,Zürcherstrasse,89,Winterthur,8406,,,,Ja,Ja,Nein,Restaurant,,Pizza,,Italienisch,,,,,,Ja,Ja,,Nein
+Fast Delivery,6515366866,6515366866,,,Brooklyn Burgermeister,Kasernenstrasse,77b,Zürich,8004,,,3,Ja,,,,,,,,,,,,,Ja,,Nein,Nein
+Fast Delivery,6569753582,6569753582,,,Tschingg,Limmatstrasse,268-270,Zürich,8005,,,2,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Nein
+Fast Delivery,6670364522,6670364522,,,Accogliente,Zwirnereistrasse,21,Wallisellen,8304,,,5,,,,,,,,,,,,Ja,,Ja,Ja,,Ja
+Fast Delivery,6680755287,6680755287,,,Al Mouchtar,,,,,,,2,Ja,,,,,,,,,,,,,Ja,,,Nein
+Fast Delivery,6680755386,6680755386,,,Afghan Anar,Fierzgasse ,22,Zürich,8005,,,4,Weiss nicht,,,,,,,,,,,,,,Ja,Nein,Ja
+Fast Delivery,6702720455,6702720455,,,8610 am See,,,,,,,4,,,,,,,,,,,,,,,Ja,,
+Fast Delivery,6761865567,6761865567,,,Miss Miu,Europaallee,48,Zürich,8004,,,3,Weiss nicht,,,,,,,,,,,,,,Ja,,Nein
+toess,6830405408,6830405408,"47,3682563","8,5450594",Williams ButchersTable,Schifflände,6,Zürich,8001,williamsbutcherstable.ch,Nein,2,Nein,Ja,Nein,Restaurant,,Gutbürgerlich,,Europäisch,Schweizerisch,Nein,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+Fast Delivery,6911864195,6911864195,,,Meze,,,,,,,2,Ja,,,,,,,,,,,Ja,,Ja,Ja,,Ja
+Fast Delivery,7038861915,7038861915,,,Aladin,Langstrasse,97,,,,,2,Ja,,,,,,,,,,,,,Ja,,Ja,
+FR,7063607020,7063607020,47.3889237,8.5265708,Roots,Limmatstrasse,254,Zürich,8005,https://rootsandfriends.com/,Nein,2,,Ja,Nein,Bar,Restaurant,Fusion,Marktküche,Asiatisch,,Ja,Ja,Nein,Ja,Nein,Nein,,Ja
+Fast Delivery,7204657040,7204657040,,,Gaijin Izakaya,Birmensdorferstrasse,5,Zürich,8004,,,3,Ja,,,,,,,,,,,,,Ja,Ja,Nein,Ja
+Fast Delivery,7580656369,7580656369,,,Clouds,Maagplatz,5,Zürich,8005,,,4,,,,,,,,,,,,Ja,,,Ja,,Ja
+FR,7637778240,7637778240,,,Subway,Maurerstrasse,4,Frauenfeld,8500,https://restaurants.subway.com/de_ch/schweiz/frauenfeld/maurerstr-2,Nein,1,Ja,Ja,Ja,Restaurant,Fastfood,Sandwich,,Europäisch,,Ja,Ja,Ja,Ja,Ja,Ja,,
+Fast Delivery,7711458065,7711458065,,,Migros Restaurant,Alte Landstrasse,24,Horgen,8810,,,2,Ja,,,,,,,,,,,,,Ja,,Nein,Ja
+Fast Delivery,8349864971,8349864971,,,Rice Up! ,,,,,,,2,Ja,,,,,,,,,,,,,Ja,,Ja,Ja
+FR,8448947493,8448947493,,,Little Italy,Oststrasse,8,Frauenfeld,8500,www.pizzeria-littleitaly.ch,Nein,1,Ja,Ja,Nein,Fastfood,,Gutbürgerlich,,Europäisch,,Ja,Nein,Nein,Nein,Ja,Ja,Nein,Ja
+FR,8475219428,8475219428,47.5213549,8.6781429,Taggenberg,Taggenbergstrasse,79,Winterthur,8408,https://dastaggenberg.ch/,Nein,2,Ja,Ja,Ja,Restaurant,,Gutbürgerlich,,Schweizerisch,italienisch,Ja,Ja,Nein,Nein,Ja,Ja,,Ja
+Fast Delivery,8621173830,8621173830,,,Yooji's,,,,,,,5,Weiss nicht,,,,,,,,,,,,,,Ja,Nein,
+Fast Delivery,8628395260,8628395260,,,Burger King,,,,,,,4,Ja,,,,,,,,,,,,,Ja,Ja,,
+Fast Delivery,8628399877,8628399877,,,Starbucks,,,,,,,4,Ja,,,,,,,,,,,Ja,,,Ja,Nein,
+toess,8785727518,8785727518,"47,3787846","8,5292582",Unmeat,Militärstrasse ,91,Zürich,8004,unmeat.com,Nein,1,Ja,Ja,Nein,Restaurant,,Marktküche,,Europäisch,Schweizerisch,Ja,Ja,Nein,Nein,Ja,Ja,Nein,Nein
+Fast Delivery,8874899713,8874899713,,,Tayyeb Burger ,Wartstrasse ,25,Winterthur,8400,,,2,Ja,,,,,,,,,,,,,Ja,Ja,,

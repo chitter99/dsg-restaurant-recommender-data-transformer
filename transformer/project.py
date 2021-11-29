@@ -8,7 +8,7 @@ class UsersTransformer(IdTransformer):
             'user_id': self._id(row['user_id'])
         }
 
-    def _fieldnames() -> list:
+    def _fieldnames(self) -> list:
         return ['user_id']
 
 class RestaurantsTransformer(IdTransformer):
@@ -17,7 +17,7 @@ class RestaurantsTransformer(IdTransformer):
             'restaurant_id': self._id(row['restaurant_id'])
         }
 
-    def _fieldnames() -> list:
+    def _fieldnames(self) -> list:
         return ['restaurant_id']
 
 class RatingsTransformer(Transformer):
@@ -27,12 +27,13 @@ class RatingsTransformer(Transformer):
         super().__init__(input, output)
 
     def _transform(self, row) -> dict:
-        return {
+        return { **{
             'user_id': self.user_ids[row['user_id']],
-            'restaurant_id': self.user_ids[row['restaurant_id']],
-            'date': row['date'],
-            'rating': row['rating']
-        }
+            'restaurant_id': self.restaurant_ids[row['restaurant_id']]
+        }, **self._rename(row, {
+            'datum': 'date',
+            'rating': 'rating'
+        })}
 
-    def _fieldnames() -> list:
+    def _fieldnames(self) -> list:
         return ['user_id', 'restaurant_id', 'date', 'rating']
