@@ -49,3 +49,45 @@ class IdTransformer(Transformer):
         self._id_counter += 1
         self.ids[old_id] = self._id_counter
         return self._id_counter
+
+class IndexedMetric:
+    def __init__(self, values=[]) -> None:
+        self.values = values
+
+    def index(self, value: str) -> int:
+        try:
+            return self.values.index(value.lower())
+        except ValueError:
+            self.values.append(value.lower())
+            return len(self.values) - 1
+
+class StringTransformer:
+    def __init__(self, value: str):
+        self._value = value
+
+    def ret(self) -> str:
+        return str(self._value)
+
+    def strip(self):
+        self._value = self._value.strip()
+        return self
+
+    def default(self, default):
+        if not self._value:
+            self._value = default
+        return self
+
+    def replace(self, test, new):
+        if self._value is test:
+            self._value = new
+        return self
+
+    def apply(self, func):
+        self._value = func(self._value)
+        return self
+
+def vas(value):
+    return StringTransformer(value).strip()
+
+def val(value):
+    return StringTransformer(value)
