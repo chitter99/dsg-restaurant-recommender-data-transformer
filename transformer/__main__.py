@@ -14,7 +14,7 @@ def run_default_transformer(users_path, restaurants_path, ratings_path):
     print('Transformed user_features to .\\output\\restaurant_features.csv')
 
     ratings_transformer = RatingsTransformer(ratings_path, '.\\output\\ratings.csv',
-        user_ids=users_transformer.ids, restaurant_ids=restaurants_transformer.ids)
+    user_ids=users_transformer.ids, restaurant_ids=restaurants_transformer.ids)
     
     ratings_transformer.transform()
     print('Transformed user_features to .\\output\\ratings.csv')

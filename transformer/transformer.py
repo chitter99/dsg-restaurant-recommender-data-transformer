@@ -50,10 +50,28 @@ class IdTransformer(Transformer):
         self.ids[old_id] = self._id_counter
         return self._id_counter
 
-class IndexedMetric:
-    def __init__(self, values=[]) -> None:
+# Metric is a collection of attributes which can be further processed
+class Metric:
+    def __init__(self, name, values=dict()) -> None:
+        self.name = name
         self.values = values
 
+    def _fieldnames(self) -> list:
+        return ['']
+
+    def get(self) -> dict:
+        return self.values
+
+    def export(self, directory):
+        with open(directory, 'w+', newline='', encoding='UTF-8') as file:
+            writer = csv.DictWriter(file, delimiter=',', 
+                quotechar='"', fieldnames=self())
+            writer.writeheader()
+            for row in self.values:
+                writer.writerow(row)
+
+# Indexes each value and returns index if value already is indexed
+class IndexedMetric(Metric):
     def index(self, value: str) -> int:
         try:
             return self.values.index(value.lower())
