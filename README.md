@@ -16,5 +16,5 @@ The script expects a dataset split into three sets.
 Per default the scripts looks for those files in the input directory. They have to be in a CSV format following the raw data structure defined in the data report.
 To start the transforming you can execute the following command.
 ```
-python -m transformer
+python transform.py
 ```

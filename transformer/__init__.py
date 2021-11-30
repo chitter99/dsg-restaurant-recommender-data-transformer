@@ -1,1 +1,0 @@
-from transformer.__main__ import run_default_transformer
