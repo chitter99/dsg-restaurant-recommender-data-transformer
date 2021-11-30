@@ -3,10 +3,42 @@ import pandas as pd
 
 from os.path import join
 
-# consts
-boollike = {
+replace_matrix = {
+    # boollike
     'Ja': True,
-    'Nein': False
+    'Nein': False,
+    
+    # NaN
+    'Keine': np.NaN,
+    
+    # categoy gender
+    'Männlich': 'male',
+    'Weiblich': 'female',
+    'Nicht-Binär': 'non-binary',
+
+    # category diet
+    'Pescetarier': 'pescetarian',
+    'vegetarisch': 'vegetarian',
+
+    # categoy beverage_preference
+    'Alkohol': 'alcohol',
+    'Alkoholfrei': 'non-alcoholic',
+    'Bier': 'beer',
+    'Cocktails': 'cocktails',
+    'Spirituosen': 'spirits',
+    'Limonade': 'lemonade',
+    'Tee': 'tea',
+    'Kaffee': 'coffe',
+    'Wasser': 'water',
+    'Fruchtsaft': 'juice',
+    'Wein': 'wine',
+
+    # categoy marital_status
+    'Ledig': 'single',
+    'Verheiratet': 'married',
+    'Zusammenlebend': 'cohabit',
+    'geschieden': 'divorced',
+    'verwitwet': 'widowed'
 }
 
 def transform_user_features(users: pd.DataFrame) -> pd.DataFrame:
@@ -29,14 +61,13 @@ def transform_user_features(users: pd.DataFrame) -> pd.DataFrame:
     })
     users.index = users.index.rename('user_id')
 
-    # replace "Keine" with NaN
-    users = users.replace('Keine', np.NaN)
+    users = users.replace(replace_matrix)
 
     # convert boolean like strings
-    users['children'] = users['children'].replace(boollike)
-    users['alcohol_consumption'] = users['alcohol_consumption'].replace(boollike)
-    users['student'] = users['student'].replace(boollike)
-    users['employee'] = users['employee'].replace(boollike)
+    #users['children'] = users['children'].replace(boollike)
+    #users['alcohol_consumption'] = users['alcohol_consumption'].replace(boollike)
+    #users['student'] = users['student'].replace(boollike)
+    #users['employee'] = users['employee'].replace(boollike)
 
     # feature engineering intolerances from lebensmittel_intoleranzen attribute
     users['lebensmittel_intoleranzen'] = users['lebensmittel_intoleranzen'].astype('string')
@@ -67,6 +98,15 @@ def transform_restaurant_features(restaurants: pd.DataFrame) -> pd.DataFrame:
     return restaurants
 
 def transform_ratings(ratings: pd.DataFrame) -> pd.DataFrame:
+    # drop not needed columns
+    ratings = ratings.drop(columns=['team_name', 'datum'])
+
+    # rename index column
+    ratings.index = ratings.index.rename('rating_id')
+
+    # update column types
+    ratings['rating'] = pd.to_numeric(ratings['rating'])
+
     return ratings
 
 def main(input='.\\input', output='.\\output'):
@@ -98,7 +138,11 @@ def main(input='.\\input', output='.\\output'):
     print('$ transformed -> {} ratings'.format(len(ratings)))
 
     print('$ linked new foreign keys')
-    print('$ exported categories')
+
+    users.to_csv(join(output, 'user_features.csv'))
+    restaurants.to_csv(join(output, 'restaurant_features.csv'))
+    ratings.to_csv(join(output, 'ratings.csv'))
+    print('$ exported sets')
 
     print('')
     print('Done, good night!')
