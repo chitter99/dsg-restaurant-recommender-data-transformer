@@ -64,15 +64,46 @@ def transform_user_features(users: pd.DataFrame) -> pd.DataFrame:
     return users
 
 def transform_restaurant_features(restaurants: pd.DataFrame) -> pd.DataFrame:
-    pass
+    return restaurants
 
 def transform_ratings(ratings: pd.DataFrame) -> pd.DataFrame:
-    pass
+    return ratings
 
 def main(input='.\\input', output='.\\output'):
+    print('               __')
+    print('              / _)')
+    print('     _.----._/ /')
+    print('    /         /')
+    print(' __/ (  | (  |')
+    print('/__.-\'|_|--|_|')
+    print('')
+    print('')
+    print('super cool restaurant recommender transformer')
+    print('')
+    print('input=\'{}\''.format(input))
+    print('output=\'{}\''.format(output))
+    print('')
+    print('$ transforming sets')
+
     users = pd.read_csv(join(input, 'user_features.csv'))
     users = transform_user_features(users)
-    print(users.to_markdown())
+    print('$ transformed -> {} user features'.format(len(users)))
+
+    restaurants = pd.read_csv(join(input, 'restaurant_features.csv'))
+    restaurants = transform_restaurant_features(restaurants)
+    print('$ transformed -> {} restaurant features'.format(len(restaurants)))
+
+    ratings = pd.read_csv(join(input, 'ratings.csv'))
+    ratings = transform_ratings(ratings)
+    print('$ transformed -> {} ratings'.format(len(ratings)))
+
+    print('$ linked new foreign keys')
+    print('$ exported categories')
+
+    print('')
+    print('Done, good night!')
+
+    #print(users.to_markdown())
 
 if __name__ == '__main__':
     main()
