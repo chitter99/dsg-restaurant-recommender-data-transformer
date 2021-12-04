@@ -4,6 +4,8 @@ import pandas as pd
 from typing import Tuple
 from os.path import join
 
+from pandas.core import indexing
+
 replace_matrix = {
     # boollike
     'Ja': True,
@@ -274,7 +276,7 @@ def main(input='.\\input', output='.\\output'):
 
     users.to_csv(join(output, 'user_features.csv'))
     restaurants.to_csv(join(output, 'restaurant_features.csv'))
-    ratings.to_csv(join(output, 'ratings.csv'))
+    ratings.to_csv(join(output, 'ratings.csv'), index=False)
     print('$ exported sets')
 
     print('')
